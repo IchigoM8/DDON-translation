@@ -1,144 +1,195 @@
-0,,シークレットボーナス！　残り時間《3分》追加！,,ui\00_message\examine_message\quest\quest_examine_q50103000.gmd,\quest\q50103000.arc,q50103000.arc,6,
-0,,新たな守備隊が配備された！,,ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,0,
-0,,モゴック本隊が出現した！,,ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,1,
-0,,どこかに強力な魔物が乱入したようだ―,,ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,2,
-0,,宝石喰らいのエサが各地に出現した―,,ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,3,
-0,,乱入者を発見！討伐でアイテムドロップ,,ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,4,
-0,,目標達成！　アイテムを回収しよう,,ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,5,
-0,,シークレットボーナス！　残り時間《3分》追加！,,ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,6,
-0,,新たな守備隊が配備された！,,ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,0,Mogok
-0,,モゴック本隊が出現した！,,ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,1,Mogok
-0,,どこかに強力な魔物が乱入したようだ―,,ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,2,Mogok
-0,,宝石喰らいのエサが各地に出現した―,,ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,3,Mogok
-0,,乱入者を発見！討伐でアイテムドロップ,,ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,4,Mogok
-0,,目標達成！　アイテムを回収しよう,,ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,5,Mogok
-0,,シークレットボーナス！　残り時間《3分》追加！,,ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,6,
-0,,最奥の魔物が目を覚ましたようだ――,,ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,7,
-0,,屋上から強力な魔物の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50104000.gmd,\quest\q50104000.arc,q50104000.arc,0,Zuhl
-0,,シークレットボーナス！　残り時間《10分》追加！,,ui\00_message\examine_message\quest\quest_examine_q50104000.gmd,\quest\q50104000.arc,q50104000.arc,1,Zuhl
-0,,次なる戦いに備えよ――,,ui\00_message\examine_message\quest\quest_examine_q50105000.gmd,\quest\q50105000.arc,q50105000.arc,0,
-0,,最後の戦いに備えよ――,,ui\00_message\examine_message\quest\quest_examine_q50105000.gmd,\quest\q50105000.arc,q50105000.arc,1,
-0,,スカージの力に礎が反応している――,,ui\00_message\examine_message\quest\quest_examine_q50201000.gmd,\quest\q50201000.arc,q50201000.arc,0,
-0,,スカージの力に礎が反応している――,,ui\00_message\examine_message\quest\quest_examine_q50201001.gmd,\quest\q50201001.arc,q50201001.arc,0,
-0,,淀みから戦徒が生み出される――,,ui\00_message\examine_message\quest\quest_examine_q50202000.gmd,\quest\q50202000.arc,q50202000.arc,0,
-0,,竜力が集い 新たな竜の姿となる――！,,ui\00_message\examine_message\quest\quest_examine_q50202000.gmd,\quest\q50202000.arc,q50202000.arc,1,
-0,,淀みから新たな戦徒が生み出される――,,ui\00_message\examine_message\quest\quest_examine_q50202000.gmd,\quest\q50202000.arc,q50202000.arc,2,
-0,,強力な戦徒が生み出される――！,,ui\00_message\examine_message\quest\quest_examine_q50202000.gmd,\quest\q50202000.arc,q50202000.arc,3,
-0,,竜力が霧散した――,,ui\00_message\examine_message\quest\quest_examine_q50202001.gmd,\quest\q50202001.arc,q50202001.arc,0,
-0,,竜力が満ち 新たな竜の姿となる――！,,ui\00_message\examine_message\quest\quest_examine_q50202001.gmd,\quest\q50202001.arc,q50202001.arc,1,
-0,,消えた竜力を求め 魔物が集う――,,ui\00_message\examine_message\quest\quest_examine_q50202001.gmd,\quest\q50202001.arc,q50202001.arc,2,
-0,,淀みの影から 魔物が生み出された――,,ui\00_message\examine_message\quest\quest_examine_q50202001.gmd,\quest\q50202001.arc,q50202001.arc,3,
-0,,魔物の出現に備えよ――,,ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,0,
-0,,胞子が一帯に拡がった――,,ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,1,
-0,,汚染植物が出現した――！,,ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,2,
-0,,僅かな胞子が、魔物と結びつく――,,ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,3,
+0,,シークレットボーナス！　残り時間《3分》追加！,"Secret Bonus!《3 minutes》extra time!",ui\00_message\examine_message\quest\quest_examine_q50103000.gmd,\quest\q50103000.arc,q50103000.arc,6,
+0,,新たな守備隊が配備された！,"New guards deployed!",ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,0,
+0,,モゴック本隊が出現した！,"The main Mogok force has appeared!",ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,1,
+0,,どこかに強力な魔物が乱入したようだ―,"It seems a powerful monster has invaded somewhere-",ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,2,
+0,,宝石喰らいのエサが各地に出現した―,"Prey for the Gem Eater
+emerged in regions far and wide-",ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,3,
+0,,乱入者を発見！討伐でアイテムドロップ,"Intruder detected! Defeat them to drop an item.",ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,4,
+0,,目標達成！　アイテムを回収しよう,"Goal accomplished! Collect the items!",ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,5,
+0,,シークレットボーナス！　残り時間《3分》追加！,"Secret Bonus!《3 minutes》extra time!",ui\00_message\examine_message\quest\quest_examine_q50103010.gmd,\quest\q50103010.arc,q50103010.arc,6,
+0,,新たな守備隊が配備された！,"A new garrison has been deployed!",ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,0,Mogok
+0,,モゴック本隊が出現した！,"The main Mogok force has appeared!",ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,1,Mogok
+0,,どこかに強力な魔物が乱入したようだ―,"It seems a powerful monster has invaded somewhere-",ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,2,Mogok
+0,,宝石喰らいのエサが各地に出現した―,"Prey for the Gem Eater
+emerged in regions far and wide-",ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,3,Mogok
+0,,乱入者を発見！討伐でアイテムドロップ,"Intruder detected! Defeat them to drop an item.",ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,4,Mogok
+0,,目標達成！　アイテムを回収しよう,"Goal accomplished! Collect the items!",ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,5,Mogok
+0,,シークレットボーナス！　残り時間《3分》追加！,"Secret Bonus!《3 minutes》extra time!",ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,6,
+0,,最奥の魔物が目を覚ましたようだ――,"It seems the deepest demon has awakened--",ui\00_message\examine_message\quest\quest_examine_q50103020.gmd,\quest\q50103020.arc,q50103020.arc,7,
+0,,屋上から強力な魔物の気配がする――,"I sense the presence of a powerful monster
+from the rooftop--",ui\00_message\examine_message\quest\quest_examine_q50104000.gmd,\quest\q50104000.arc,q50104000.arc,0,Zuhl
+0,,シークレットボーナス！　残り時間《10分》追加！,"Secret Bonus!《10 minutes》extra time!",ui\00_message\examine_message\quest\quest_examine_q50104000.gmd,\quest\q50104000.arc,q50104000.arc,1,Zuhl
+0,,次なる戦いに備えよ――,"Prepare for the next battle--",ui\00_message\examine_message\quest\quest_examine_q50105000.gmd,\quest\q50105000.arc,q50105000.arc,0,
+0,,最後の戦いに備えよ――,"Prepare for the final battle--",ui\00_message\examine_message\quest\quest_examine_q50105000.gmd,\quest\q50105000.arc,q50105000.arc,1,
+0,,スカージの力に礎が反応している――,"The Foundation is responding to the
+power of the Scourge--",ui\00_message\examine_message\quest\quest_examine_q50201000.gmd,\quest\q50201000.arc,q50201000.arc,0,
+0,,スカージの力に礎が反応している――,"The Foundation is responding to the
+power of the Scourge--",ui\00_message\examine_message\quest\quest_examine_q50201001.gmd,\quest\q50201001.arc,q50201001.arc,0,
+0,,淀みから戦徒が生み出される――,"From the stagnation, Myrmidons are born--",ui\00_message\examine_message\quest\quest_examine_q50202000.gmd,\quest\q50202000.arc,q50202000.arc,0,
+0,,竜力が集い 新たな竜の姿となる――！,"The power of the dragons gathers and
+takes on the form of a new dragon--!",ui\00_message\examine_message\quest\quest_examine_q50202000.gmd,\quest\q50202000.arc,q50202000.arc,1,
+0,,淀みから新たな戦徒が生み出される――,"From the stagnation, new Myrmidons are born--",ui\00_message\examine_message\quest\quest_examine_q50202000.gmd,\quest\q50202000.arc,q50202000.arc,2,
+0,,強力な戦徒が生み出される――！,"A powerful Myrmidon will be born--!",ui\00_message\examine_message\quest\quest_examine_q50202000.gmd,\quest\q50202000.arc,q50202000.arc,3,
+0,,竜力が霧散した――,"The dragon's power has dispersed--",ui\00_message\examine_message\quest\quest_examine_q50202001.gmd,\quest\q50202001.arc,q50202001.arc,0,
+0,,竜力が満ち 新たな竜の姿となる――！,"The power of the dragon fills me and
+I take on a new dragon form--!",ui\00_message\examine_message\quest\quest_examine_q50202001.gmd,\quest\q50202001.arc,q50202001.arc,1,
+0,,消えた竜力を求め 魔物が集う――,"Demons gather in search of the lost dragon power--",ui\00_message\examine_message\quest\quest_examine_q50202001.gmd,\quest\q50202001.arc,q50202001.arc,2,
+0,,淀みの影から 魔物が生み出された――,"From the shadows of the stagnant waters
+a monster was born--",ui\00_message\examine_message\quest\quest_examine_q50202001.gmd,\quest\q50202001.arc,q50202001.arc,3,
+0,,魔物の出現に備えよ――,"Prepare for the monsters to appear--",ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,0,
+0,,胞子が一帯に拡がった――,"The spores spread throughout the area--",ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,1,
+0,,汚染植物が出現した――！,"Contaminated plants have appeared--!",ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,2,
+0,,僅かな胞子が、魔物と結びつく――,"A small number of spores bind with a monster--",ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,3,
 0,,"特定ジョブの参加により
-採取アイテムが出現します",,ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,4,
-0,,汚染植物が出現した――！,,ui\00_message\examine_message\quest\quest_examine_q50202003.gmd,\quest\q50202003.arc,q50202003.arc,0,
-0,,凶暴な魔物を討伐した――,,ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,0,Gurdolin
-0,,魔物が<SPOT 877>村に向かって走り去った――,,ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,1,Gurdolin
-0,,村人避難の支援に成功――タイムボーナス獲得！,,ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,2,Lise
-0,,<NPC 501>が苦戦している――,,ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,3,Gurdolin
-0,,<NPC 13>が苦戦している――,,ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,4,Gurdolin
-0,,<NPC 21>が苦戦している――,,ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,5,Gurdolin
-0,,加勢して撃退するとタイムボーナス,,ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,6,Gurdolin
-0,,タイムボーナス獲得に失敗,,ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,7,Gurdolin
-0,,邪悪な呪いに護られた魔物が現れた――,,ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,0,
-0,,全ての呪符を破壊した――,,ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,1,
-0,,呪符に護られていた魔物が消滅した！,,ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,2,
-0,,邪悪な兆しを感じる――,,ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,3,
-0,,呪符に邪悪な力が満ちていく――,,ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,4,
-0,,呪符が霧散し 凶悪な魔物が召喚された！,,ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,5,
-0,,呪符を破壊した,,ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,6,
+採取アイテムが出現します","By participating in certain vocations,
+gathered items will appear.",ui\00_message\examine_message\quest\quest_examine_q50202002.gmd,\quest\q50202002.arc,q50202002.arc,4,
+0,,汚染植物が出現した――！,"Contaminated plants have appeared--!",ui\00_message\examine_message\quest\quest_examine_q50202003.gmd,\quest\q50202003.arc,q50202003.arc,0,
+0,,凶暴な魔物を討伐した――,"I defeated a ferocious monster--",ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,0,Gurdolin
+0,,魔物が<SPOT 877>村に向かって走り去った――,"The monster ran off towards the village of <SPOT 877>--",ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,1,Gurdolin
+0,,村人避難の支援に成功――タイムボーナス獲得！,"Successfully assisted in the evacuation of the
+villagers -- Time bonus awarded!",ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,2,Lise
+0,,<NPC 501>が苦戦している――,"<NPC 501> is having a hard time--",ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,3,Gurdolin
+0,,<NPC 13>が苦戦している――,"<NPC 13> is having a hard time--",ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,4,Gurdolin
+0,,<NPC 21>が苦戦している――,"<NPC 21> is having a hard time--",ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,5,Gurdolin
+0,,加勢して撃退するとタイムボーナス,"Adding support and repelling enemies
+will give you a time bonus",ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,6,Gurdolin
+0,,タイムボーナス獲得に失敗,"Failed to get time bonus",ui\00_message\examine_message\quest\quest_examine_q50203000.gmd,\quest\q50203000.arc,q50203000.arc,7,Gurdolin
+0,,邪悪な呪いに護られた魔物が現れた――,"A monster protected by an evil curse
+has appeared--",ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,0,
+0,,全ての呪符を破壊した――,"All the talismans were destroyed--",ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,1,
+0,,呪符に護られていた魔物が消滅した！,"The monster protected by the
+talisman has vanished!",ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,2,
+0,,邪悪な兆しを感じる――,"I sense an evil omen--",ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,3,
+0,,呪符に邪悪な力が満ちていく――,"The talisman is filled with evil power--",ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,4,
+0,,呪符が霧散し 凶悪な魔物が召喚された！,"The talisman has dispersed and
+a vicious monster has been summoned!",ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,5,
+0,,呪符を破壊した,"Destroyed the talisman.",ui\00_message\examine_message\quest\quest_examine_q50203001.gmd,\quest\q50203001.arc,q50203001.arc,6,
 0,,"幻影を討伐――
-クリア時にボーナス報酬獲得のチャンス！",,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,0,The White Dragon
-0,,幻影が姿を消した――,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,1,The White Dragon
-0,,幻影が現れた！,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,2,The White Dragon
-0,,黒騎士への道が開かれた――！,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,3,The White Dragon
-0,,辺りを巣食う黒剣を全て破壊した――！,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,4,The White Dragon
-0,,黒剣による封印が弱まった――,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,5,The White Dragon
-0,,黒騎士の配下が現れた！,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,6,The White Dragon
-0,,黒剣が敵対者を感知した――,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,7,The White Dragon
-0,,黒剣を守らんとする魔物が出現――！,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,8,The White Dragon
-0,,《追憶の枝》に存在する黒剣を全て破壊した――！,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,9,The White Dragon
-0,,《懐旧の枝》に存在する黒剣を全て破壊した――！,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,10,Mordred
-0,,《悔恨の枝》に存在する黒剣を全て破壊した――！,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,11,Mordred
-0,,《静慮の枝》に存在する黒剣を全て破壊した――！,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,12,Mordred
-0,,特定ジョブの参加により制限時間が加算されました,,ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,13,Gearóid
-0,,黒騎士が幻影を召喚した――！,,ui\00_message\examine_message\quest\quest_examine_q50204001.gmd,\quest\q50204001.arc,q50204001.arc,0,
-0,,幻影の力を一時的に封じた――,,ui\00_message\examine_message\quest\quest_examine_q50204001.gmd,\quest\q50204001.arc,q50204001.arc,1,
-0,,幻影の力を完全に封じた――！,,ui\00_message\examine_message\quest\quest_examine_q50204001.gmd,\quest\q50204001.arc,q50204001.arc,2,
-0,,強敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,0,
-0,,敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,1,
-0,,宝物庫の扉が開いた――,,ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,2,
-0,,更なる強敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,3,
-0,,奥に潜む敵の気配が弱まった――,,ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,4,
-0,,強敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,0,
-0,,敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,1,
-0,,宝物庫の扉が開いた――,,ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,2,
-0,,更なる強敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,3,
-0,,奥に潜む敵の気配が弱まった――,,ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,4,
-0,,強敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,0,
-0,,敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,1,
-0,,宝物庫の扉が開いた――,,ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,2,
-0,,更なる強敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,3,
-0,,奥に潜む敵の気配が弱まった――,,ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,4,
-0,,強敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,0,
-0,,敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,1,
-0,,宝物庫の扉が開いた――,,ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,2,
-0,,更なる強敵の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,3,
-0,,奥に潜む敵の気配が弱まった――,,ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,4,
-0,,樹内の記憶が竜力を増大させている――,,ui\00_message\examine_message\quest\quest_examine_q50206000.gmd,\quest\q50206000.arc,q50206000.arc,0,
-0,,樹内の記憶の大詠唱を封じた――！,,ui\00_message\examine_message\quest\quest_examine_q50206000.gmd,\quest\q50206000.arc,q50206000.arc,2,
-0,,最奥へと繋がる礎が解放された――,,ui\00_message\examine_message\quest\quest_examine_q50206000.gmd,\quest\q50206000.arc,q50206000.arc,4,
-0,,更なる魔物が出現――！,,ui\00_message\examine_message\quest\quest_examine_q50209000.gmd,\quest\q50209000.arc,q50209000.arc,0,
-0,,調べるテキスト１,,ui\00_message\examine_message\quest\quest_examine_q50209001.gmd,\quest\q50209001.arc,q50209001.arc,0,
+クリア時にボーナス報酬獲得のチャンス！","Defeat the phantoms -- Once cleared,
+you'll have a chance to earn bonus rewards!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,0,The White Dragon
+0,,幻影が姿を消した――,"The phantom vanished--",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,1,The White Dragon
+0,,幻影が現れた！,"A phantom has appeared!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,2,The White Dragon
+0,,黒騎士への道が開かれた――！,"The way to the Black Knight is open--!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,3,The White Dragon
+0,,辺りを巣食う黒剣を全て破壊した――！,"I've destroyed all the black swords
+that have infested the area--!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,4,The White Dragon
+0,,黒剣による封印が弱まった――,"The seal created by the black sword has weakened--",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,5,The White Dragon
+0,,黒騎士の配下が現れた！,"The Black Knight's underlings have appeared!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,6,The White Dragon
+0,,黒剣が敵対者を感知した――,"The Black Sword has detected an enemy--",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,7,The White Dragon
+0,,黒剣を守らんとする魔物が出現――！,"A monster has appeared,
+trying to protect the Black Sword--!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,8,The White Dragon
+0,,《追憶の枝》に存在する黒剣を全て破壊した――！,"I have destroyed all the black swords within the
+《Branch of Remembrance》--!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,9,The White Dragon
+0,,《懐旧の枝》に存在する黒剣を全て破壊した――！,"I have destroyed all the black swords within the
+《Branch of Nostalgia》--!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,10,Mordred
+0,,《悔恨の枝》に存在する黒剣を全て破壊した――！,"I have destroyed all the black swords within the
+《Branch of Remorse》--!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,11,Mordred
+0,,《静慮の枝》に存在する黒剣を全て破壊した――！,"I have destroyed all the black swords within the
+《Branch of Contemplation》--!",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,12,Mordred
+0,,特定ジョブの参加により制限時間が加算されました,"Participating in a specific vocation
+has added time limits.",ui\00_message\examine_message\quest\quest_examine_q50204000.gmd,\quest\q50204000.arc,q50204000.arc,13,Gearóid
+0,,黒騎士が幻影を召喚した――！,"The Black Knight has summoned a phantom--!",ui\00_message\examine_message\quest\quest_examine_q50204001.gmd,\quest\q50204001.arc,q50204001.arc,0,
+0,,幻影の力を一時的に封じた――,"The power of the phantom
+has been temporarily sealed away--",ui\00_message\examine_message\quest\quest_examine_q50204001.gmd,\quest\q50204001.arc,q50204001.arc,1,
+0,,幻影の力を完全に封じた――！,"The power of the phantom
+has been completely sealed--!",ui\00_message\examine_message\quest\quest_examine_q50204001.gmd,\quest\q50204001.arc,q50204001.arc,2,
+0,,強敵の気配がする――,"I sense the presence of a formidable enemy--",ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,0,
+0,,敵の気配がする――,"I sense the presence of the enemy--",ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,1,
+0,,宝物庫の扉が開いた――,"The treasury door has opened--",ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,2,
+0,,更なる強敵の気配がする――,"I sense an even stronger enemy--",ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,3,
+0,,奥に潜む敵の気配が弱まった――,"The presence of the enemy
+lurking in the depths has weakened--",ui\00_message\examine_message\quest\quest_examine_q50205000.gmd,\quest\q50205000.arc,q50205000.arc,4,
+0,,強敵の気配がする――,"I sense the presence of a formidable enemy--",ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,0,
+0,,敵の気配がする――,"I sense the presence of the enemy--",ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,1,
+0,,宝物庫の扉が開いた――,"The treasury door has opened--",ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,2,
+0,,更なる強敵の気配がする――,"I sense an even stronger enemy--",ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,3,
+0,,奥に潜む敵の気配が弱まった――,"The presence of the enemy
+lurking in the depths has weakened--",ui\00_message\examine_message\quest\quest_examine_q50205001.gmd,\quest\q50205001.arc,q50205001.arc,4,
+0,,強敵の気配がする――,"I sense the presence of a formidable enemy--",ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,0,
+0,,敵の気配がする――,"I sense the presence of the enemy--",ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,1,
+0,,宝物庫の扉が開いた――,"The treasury door has opened--",ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,2,
+0,,更なる強敵の気配がする――,"I sense an even stronger enemy--",ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,3,
+0,,奥に潜む敵の気配が弱まった――,"The presence of the enemy
+lurking in the depths has weakened--",ui\00_message\examine_message\quest\quest_examine_q50205002.gmd,\quest\q50205002.arc,q50205002.arc,4,
+0,,強敵の気配がする――,"I sense the presence of a formidable enemy--",ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,0,
+0,,敵の気配がする――,"I sense the presence of the enemy--",ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,1,
+0,,宝物庫の扉が開いた――,"The treasury door has opened--",ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,2,
+0,,更なる強敵の気配がする――,"I sense an even stronger enemy--",ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,3,
+0,,奥に潜む敵の気配が弱まった――,"The presence of the enemy
+lurking in the depths has weakened--",ui\00_message\examine_message\quest\quest_examine_q50205003.gmd,\quest\q50205003.arc,q50205003.arc,4,
+0,,樹内の記憶が竜力を増大させている――,"The memories within the tree
+are increasing the dragon's power--",ui\00_message\examine_message\quest\quest_examine_q50206000.gmd,\quest\q50206000.arc,q50206000.arc,0,
+0,,樹内の記憶の大詠唱を封じた――！,"The great chant of memories
+within the tree has been sealed--!",ui\00_message\examine_message\quest\quest_examine_q50206000.gmd,\quest\q50206000.arc,q50206000.arc,2,
+0,,最奥へと繋がる礎が解放された――,"The foundation leading to the innermost depths
+has been released--",ui\00_message\examine_message\quest\quest_examine_q50206000.gmd,\quest\q50206000.arc,q50206000.arc,4,
+0,,更なる魔物が出現――！,"More monsters have appeared--!",ui\00_message\examine_message\quest\quest_examine_q50209000.gmd,\quest\q50209000.arc,q50209000.arc,0,
+0,,調べるテキスト１,"Examine Text 1",ui\00_message\examine_message\quest\quest_examine_q50209001.gmd,\quest\q50209001.arc,q50209001.arc,0,
 0,,"敵勢力の一部制圧に成功
-次の目標地点を目指せ",,ui\00_message\examine_message\quest\quest_examine_q50300000.gmd,\quest\q50300000.arc,q50300000.arc,0,Vanessa
+次の目標地点を目指せ","Successfully suppressed part of the enemy forces.
+Aim for the next target.",ui\00_message\examine_message\quest\quest_examine_q50300000.gmd,\quest\q50300000.arc,q50300000.arc,0,Vanessa
 0,,"敵勢力の一部制圧に成功
-次の目標地点を目指せ",,ui\00_message\examine_message\quest\quest_examine_q50300000.gmd,\quest\q50300000.arc,q50300000.arc,1,Vanessa
+次の目標地点を目指せ","Successfully suppressed part of the enemy forces.
+Aim for the next target.",ui\00_message\examine_message\quest\quest_examine_q50300000.gmd,\quest\q50300000.arc,q50300000.arc,1,Vanessa
 0,,"強襲部隊の撃破に成功
-引き続き敵勢力の殲滅を続行せよ",,ui\00_message\examine_message\quest\quest_examine_q50300000.gmd,\quest\q50300000.arc,q50300000.arc,2,Vanessa
+引き続き敵勢力の殲滅を続行せよ","The assault force has been defeated.
+Continue eliminating enemy forces.",ui\00_message\examine_message\quest\quest_examine_q50300000.gmd,\quest\q50300000.arc,q50300000.arc,2,Vanessa
 0,,"特攻部隊の撃破に成功
-引き続き敵勢力の殲滅を続行せよ",,ui\00_message\examine_message\quest\quest_examine_q50300000.gmd,\quest\q50300000.arc,q50300000.arc,3,Vanessa
-0,,砦の各所に正体不明の敵が出現―！,,ui\00_message\examine_message\quest\quest_examine_q50300002.gmd,\quest\q50300002.arc,q50300002.arc,0,Lise
+引き続き敵勢力の殲滅を続行せよ","The special attack force has been successfully
+defeated. Continue eliminating enemy forces.",ui\00_message\examine_message\quest\quest_examine_q50300000.gmd,\quest\q50300000.arc,q50300000.arc,3,Vanessa
+0,,砦の各所に正体不明の敵が出現―！,"Unidentified enemies have appeared
+in various places throughout the fort-!",ui\00_message\examine_message\quest\quest_examine_q50300002.gmd,\quest\q50300002.arc,q50300002.arc,0,Lise
 0,,"呪われた魔鳥を討ち払った
-引き続き呪われた敵を捜索せよ",,ui\00_message\examine_message\quest\quest_examine_q50300002.gmd,\quest\q50300002.arc,q50300002.arc,1,Lise
+引き続き呪われた敵を捜索せよ","The Cursed Demon Bird has been defeated.
+Continue searching for the cursed enemy.",ui\00_message\examine_message\quest\quest_examine_q50300002.gmd,\quest\q50300002.arc,q50300002.arc,1,Lise
 0,,"霊体騎士群を討ち払った
-引き続き呪われた敵を捜索せよ",,ui\00_message\examine_message\quest\quest_examine_q50300002.gmd,\quest\q50300002.arc,q50300002.arc,2,Lise
+引き続き呪われた敵を捜索せよ","The Spirit Knights have been defeated.
+Continue searching for the cursed enemy.",ui\00_message\examine_message\quest\quest_examine_q50300002.gmd,\quest\q50300002.arc,q50300002.arc,2,Lise
 0,,"呪われた巨鳥を討ち払った
-引き続き呪われた敵を捜索せよ",,ui\00_message\examine_message\quest\quest_examine_q50300002.gmd,\quest\q50300002.arc,q50300002.arc,3,Lise
-0,,残る総大将を討伐せよ！,,ui\00_message\examine_message\quest\quest_examine_q50300004.gmd,\quest\q50300004.arc,q50300004.arc,0,
-0,,《時番》を殲滅した,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,0,Zerkin
-0,,エルダードラゴン討伐に成功した,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,1,Zerkin
-0,,《時番》の気配がする―,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,2,Zerkin
-0,,《時番》を発見！討伐でタイムボーナス,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,3,Zerkin
-0,,エルダードラゴンが出現した！,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,4,Zerkin
-0,,新たな竜族が出現した！,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,5,Zerkin
-0,,タイムボーナス《5分》追加！,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,6,Zerkin
-0,,3種の宝石が揃った―！,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,7,Zerkin
+引き続き呪われた敵を捜索せよ","The Cursed Giant Bird has been defeated.
+Continue searching for the cursed enemy.",ui\00_message\examine_message\quest\quest_examine_q50300002.gmd,\quest\q50300002.arc,q50300002.arc,3,Lise
+0,,残る総大将を討伐せよ！,"Subjugate the remaining commanders!",ui\00_message\examine_message\quest\quest_examine_q50300004.gmd,\quest\q50300004.arc,q50300004.arc,0,
+0,,《時番》を殲滅した,"The《Time Keepers》have been annihilated.",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,0,Zerkin
+0,,エルダードラゴン討伐に成功した,"Elder Dragon has been successfully defeated.",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,1,Zerkin
+0,,《時番》の気配がする―,"I sense the presence of the《Time Keeper》-",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,2,Zerkin
+0,,《時番》を発見！討伐でタイムボーナス,"Found the《Time Keeper》!
+Defeat them for a time bonus!",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,3,Zerkin
+0,,エルダードラゴンが出現した！,"An Elder Dragon has appeared!",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,4,Zerkin
+0,,新たな竜族が出現した！,"A new dragon race has appeared!",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,5,Zerkin
+0,,タイムボーナス《5分》追加！,"Added《5 minute》time bonus!",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,6,Zerkin
+0,,3種の宝石が揃った―！,"All three gems are here-!",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,7,Zerkin
 0,,"3種の宝石に魅かれ
-エルダードラゴン・ブレイズが出現した！",,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,8,Zerkin
-0,,エメラルドアイを討伐した,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,9,
-0,,ラピスアイを討伐した,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,10,
-0,,ルビーアイを討伐した,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,11,
-0,,クリスタルアイを討伐した,,ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,12,
+エルダードラゴン・ブレイズが出現した！","Attracted by the three gems,
+Blaze Elder Dragon has appeared!",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,8,Zerkin
+0,,エメラルドアイを討伐した,"Emerald Eye has been defeated.",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,9,
+0,,ラピスアイを討伐した,"Lapis Eye has been defeated.",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,10,
+0,,ルビーアイを討伐した,"Ruby Eye has been defeated.",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,11,
+0,,クリスタルアイを討伐した,"Crystal Eye has been defeated.",ui\00_message\examine_message\quest\quest_examine_q50300005.gmd,\quest\q50300005.arc,q50300005.arc,12,
 0,,"封印の扉が開き
-カースドラゴンへの道が開けた――！",,ui\00_message\examine_message\quest\quest_examine_q50300007.gmd,\quest\q50300007.arc,q50300007.arc,0,
-0,,更なる魔物が呼び寄せられた――,,ui\00_message\examine_message\quest\quest_examine_q50300007.gmd,\quest\q50300007.arc,q50300007.arc,1,
+カースドラゴンへの道が開けた――！","The sealed door has opened,
+and the path to the Cursed Dragon has opened--!",ui\00_message\examine_message\quest\quest_examine_q50300007.gmd,\quest\q50300007.arc,q50300007.arc,0,
+0,,更なる魔物が呼び寄せられた――,"More monsters have been summoned--",ui\00_message\examine_message\quest\quest_examine_q50300007.gmd,\quest\q50300007.arc,q50300007.arc,1,
 0,,"魔物の群れが全滅！
-一帯の増援は止まったようだ――",,ui\00_message\examine_message\quest\quest_examine_q50300007.gmd,\quest\q50300007.arc,q50300007.arc,2,
-0,,脅威的な魔物が呼び寄せられた―！,,ui\00_message\examine_message\quest\quest_examine_q50300007.gmd,\quest\q50300007.arc,q50300007.arc,3,
-0,,魔物の増援が止まったようだ――,,ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,0,
-0,,どこかで泉の湧く音がする――,,ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,1,
-0,,侵食魔の素早い殲滅に成功――！,,ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,2,
-0,,《殲滅区　左方》に魔物が現れた,,ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,3,
+一帯の増援は止まったようだ――","The horde of monsters has been wiped out!
+Reinforcements in the area appear to have stopped--",ui\00_message\examine_message\quest\quest_examine_q50300007.gmd,\quest\q50300007.arc,q50300007.arc,2,
+0,,脅威的な魔物が呼び寄せられた―！,"A menacing monster has been summoned-!",ui\00_message\examine_message\quest\quest_examine_q50300007.gmd,\quest\q50300007.arc,q50300007.arc,3,
+0,,魔物の増援が止まったようだ――,"It seems the monster reinforcements have stopped--",ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,0,
+0,,どこかで泉の湧く音がする――,"I can hear the sound of a
+spring bubbling somewhere--",ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,1,
+0,,侵食魔の素早い殲滅に成功――！,"We have succeeded in quickly eliminating
+the erosion demons--!",ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,2,
+0,,《殲滅区　左方》に魔物が現れた,"A monster has appeared in the
+《Extermination Zone, Left》",ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,3,
 0,,"パーティメンバーが死亡状態になったため
-《宝物庫》へ道が１つになりました",,ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,4,
+《宝物庫》へ道が１つになりました","Since a party member has died,
+there is now only one path to the《Treasury》.",ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,4,
 0,,"《殲滅区　右方》から《宝物庫》へ
-続くが開けた――",,ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,5,
+続くが開けた――","The path leading from the
+《Extermination Zone, Right》to the
+《Treasury》has opened--",ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,5,
 0,,"《殲滅区　左方》から《宝物庫》へ
-続くが開けた――",,ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,6,
+続くが開けた――","The passage leading from the
+《Extermination Zone, Left》to the
+《Treasury》has opened--",ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,6,
 0,,樹内の記憶から竜力の波動を感じる――,,ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,0,
 0,,樹内の記憶が竜昌を生み出した！,,ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,1,
 0,,樹内の記憶が怒りに染まっていく―,,ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,2,
@@ -151,9 +202,9 @@
 0,,悪しき竜軍の進軍を食い止めた！,,ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,4,
 0,,封鎖された扉が開いた――,,ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,0,
 0,,イービルアイはダンジョンの奥へと消え去った――,,ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,1,
-0,,特定ジョブの参加により制限時間が加算されました,,ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,2,
+0,,特定ジョブの参加により制限時間が加算されました,vocation,ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,2,
 0,,"特定ジョブの参加により
-英霊の加護が与えられました",,ui\00_message\examine_message\quest\quest_examine_q50303000.gmd,\quest\q50303000.arc,q50303000.arc,0,
+英霊の加護が与えられました",vocation,ui\00_message\examine_message\quest\quest_examine_q50303000.gmd,\quest\q50303000.arc,q50303000.arc,0,
 0,,魔物の出現に備えよ――,,ui\00_message\examine_message\quest\quest_examine_q50309000.gmd,\quest\q50309000.arc,q50309000.arc,0,
 0,,"将がガルドノック最奥へ移動し
 覚者を待ち受ける――",,ui\00_message\examine_message\quest\quest_examine_q50400013.gmd,\quest\q50400013.arc,q50400013.arc,0,
