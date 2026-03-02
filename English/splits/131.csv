@@ -381,7 +381,7 @@ I guess I've got no choice.",ui\00_message\pawn\talk\stage\feature9001\persona07
 0,,"覚者様、もし余ってたらでいいんですが――
 <COL b92828><NAME ITEM>を<VAL> 個</COL>いただけませんかね
 いえ、本当に余ってたらで構いませんぜ","Arisen, only if you happen to have any to spare...
-could I trouble you for <VAL> <NAME ITEM>?
+could I trouble you for <NAME ITEM>s, <VAL> of 'em?
 Honestly, only if you don't need them yourself,
 mind you.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,7,
 0,,"覚者様――！　
@@ -389,9 +389,9 @@ mind you.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_f
 0,,ま、世の中そう上手くはいかねえやな,"Well, I guess the world
 doesn't always work out that smoothly.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,9,
 0,,"いやぁ、<COL b92828><NAME ITEM></COL>はありがたいんですがね――
-<COL b92828><VAL> 個</COL>にはちょいとばかし足りねぇみたいです","Ah, I appreciate the <NAME ITEM>,
+<COL b92828><VAL> 個</COL>にはちょいとばかし足りねぇみたいです","Ah, I appreciate the <COL b92828><NAME ITEM></COL>,
 I really do— but it seems we're still a little
-short of the <VAL> we need.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,10,
+short of the <COL b92828><VAL></COL> we need.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,10,
 0,,"覚者様、ちょいとばかし散歩してきちゃどうです？
 帰ってこられた時、すごいものをお見せしやすぜ","Arisen, why not head out for a little stroll?
 I'll have something spectacular to show you
@@ -805,10 +805,12 @@ it won't stay set like this for long, I'm afraid!",ui\00_message\pawn\talk\stage
 0,,"マスター、あたし――
 もっとあなた好みになるために、
 <COL b92828><NAME ITEM><VAL> 個</COL>が必要だと思うの――
-ね、いただけないかしら？","Master, I... I think I'll be needin' <COL b92828><VAL>
-<NAME ITEM></COL> if I'm ever gonna become exactly
-the Pawn you want me to be—could you find it in
-your heart to spare them for me?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,7,
+ね、いただけないかしら？","Master, I... I think I'll be needin'
+<COL b92828><NAME ITEM>s, <VAL> of 'em,</COL>
+if I'm ever gonna become exactly
+the Pawn you want me to be—
+could you find it in your heart
+to spare them for me?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,7,
 0,,"嬉しいわマスター！ ありがとう
 もっともっと尽くすから、期待してくださいね","Oh, I'm so happy, Master! Thank you!
 I'm gonna work harder than ever to serve you,
