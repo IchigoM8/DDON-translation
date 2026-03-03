@@ -190,38 +190,56 @@ there is now only one path to the《Treasury》.",ui\00_message\examine_message\
 続くが開けた――","The passage leading from the
 《Extermination Zone, Left》to the
 《Treasury》has opened--",ui\00_message\examine_message\quest\quest_examine_q50300009.gmd,\quest\q50300009.arc,q50300009.arc,6,
-0,,樹内の記憶から竜力の波動を感じる――,,ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,0,
-0,,樹内の記憶が竜昌を生み出した！,,ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,1,
-0,,樹内の記憶が怒りに染まっていく―,,ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,2,
-0,,樹内の記憶が竜力を増大させている――,,ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,4,
-0,,樹内の記憶の大詠唱を封じた！,,ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,6,
-0,,悪しき竜軍の増援を食い止めた！,,ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,0,
-0,,悪しき竜軍の増援を食い止められなかった――,,ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,1,
-0,,悪しき竜軍の更なる襲撃に備えよ――,,ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,2,
-0,,悪しき竜軍の進軍を食い止められなかった――,,ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,3,
-0,,悪しき竜軍の進軍を食い止めた！,,ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,4,
-0,,封鎖された扉が開いた――,,ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,0,
-0,,イービルアイはダンジョンの奥へと消え去った――,,ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,1,
-0,,特定ジョブの参加により制限時間が加算されました,vocation,ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,2,
+0,,樹内の記憶から竜力の波動を感じる――,"I can feel the surge of Dragon Force emanating
+from the memories within the tree.",ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,0,
+0,,樹内の記憶が竜昌を生み出した！,"From the tree's memories,
+a Dragon Crystal has been manifest!",ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,1,
+0,,樹内の記憶が怒りに染まっていく―,"A deep anger begins to permeate
+the tree's memories...",ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,2,
+0,,樹内の記憶が竜力を増大させている――,"The Dragon Force within the tree's memories
+is surging ever greater—",ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,4,
+0,,樹内の記憶の大詠唱を封じた！,"The Great Chant within the tree's memories
+has been sealed!",ui\00_message\examine_message\quest\quest_examine_q50300010.gmd,\quest\q50300010.arc,q50300010.arc,6,
+0,,悪しき竜軍の増援を食い止めた！,"The Evil Dragon’s reinforcements have been halted!",ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,0,
+0,,悪しき竜軍の増援を食い止められなかった――,"Failed to halt the Evil Dragon’s reinforcements—",ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,1,
+0,,悪しき竜軍の更なる襲撃に備えよ――,"Brace for further attacks
+from the Evil Dragon’s army—",ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,2,
+0,,悪しき竜軍の進軍を食い止められなかった――,"The Evil Dragon's army could not be stopped
+from advancing—",ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,3,
+0,,悪しき竜軍の進軍を食い止めた！,"The Evil Dragon’s advance has been halted!",ui\00_message\examine_message\quest\quest_examine_q50301000.gmd,\quest\q50301000.arc,q50301000.arc,4,
+0,,封鎖された扉が開いた――,"The sealed door has opened—",ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,0,
+0,,イービルアイはダンジョンの奥へと消え去った――,"The Evil Eye has retreated
+deeper into the dungeon—",ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,1,
+0,,特定ジョブの参加により制限時間が加算されました,"Time limit extended due to the presence of
+specific vocations!",ui\00_message\examine_message\quest\quest_examine_q50302000.gmd,\quest\q50302000.arc,q50302000.arc,2,
 0,,"特定ジョブの参加により
-英霊の加護が与えられました",vocation,ui\00_message\examine_message\quest\quest_examine_q50303000.gmd,\quest\q50303000.arc,q50303000.arc,0,
-0,,魔物の出現に備えよ――,,ui\00_message\examine_message\quest\quest_examine_q50309000.gmd,\quest\q50309000.arc,q50309000.arc,0,
+英霊の加護が与えられました","The Heroic Spirits' Protection granted due to
+specific party vocations!",ui\00_message\examine_message\quest\quest_examine_q50303000.gmd,\quest\q50303000.arc,q50303000.arc,0,
+0,,魔物の出現に備えよ――,"Prepare for the appearance of monsters—",ui\00_message\examine_message\quest\quest_examine_q50309000.gmd,\quest\q50309000.arc,q50309000.arc,0,
 0,,"将がガルドノック最奥へ移動し
-覚者を待ち受ける――",,ui\00_message\examine_message\quest\quest_examine_q50400013.gmd,\quest\q50400013.arc,q50400013.arc,0,
+覚者を待ち受ける――","The General has moved to the deepest reaches of
+Gardonock and awaits the Arisen—",ui\00_message\examine_message\quest\quest_examine_q50400013.gmd,\quest\q50400013.arc,q50400013.arc,0,
 0,,"将の討伐に成功――
-ガルドノック最奥にモゴックが出現した！",,ui\00_message\examine_message\quest\quest_examine_q50400013.gmd,\quest\q50400013.arc,q50400013.arc,1,
+ガルドノック最奥にモゴックが出現した！","The General's subjugation is complete—Mogok has
+emerged in the deepest reaches of Gardonock!",ui\00_message\examine_message\quest\quest_examine_q50400013.gmd,\quest\q50400013.arc,q50400013.arc,1,
 0,,"ボーナス報酬条件達成！
-ミッションクリア時の報酬が追加されます",,ui\00_message\examine_message\quest\quest_examine_q50400013.gmd,\quest\q50400013.arc,q50400013.arc,2,
+ミッションクリア時の報酬が追加されます","Bonus requirements met! Additional rewards
+will be granted upon mission completion.",ui\00_message\examine_message\quest\quest_examine_q50400013.gmd,\quest\q50400013.arc,q50400013.arc,2,
 0,,"ボーナス報酬条件達成！
-ミッションクリア時の報酬が追加されます",,ui\00_message\examine_message\quest\quest_examine_q50400013.gmd,\quest\q50400013.arc,q50400013.arc,3,
+ミッションクリア時の報酬が追加されます","Bonus requirements met! Additional rewards
+will be granted upon mission completion.",ui\00_message\examine_message\quest\quest_examine_q50400013.gmd,\quest\q50400013.arc,q50400013.arc,3,
 0,,"ボーナス報酬条件達成！
-ミッションクリア時の報酬が追加されます",,ui\00_message\examine_message\quest\quest_examine_q50400014.gmd,\quest\q50400014.arc,q50400014.arc,0,
+ミッションクリア時の報酬が追加されます","Bonus requirements met! Additional rewards
+will be granted upon mission completion.",ui\00_message\examine_message\quest\quest_examine_q50400014.gmd,\quest\q50400014.arc,q50400014.arc,0,
 0,,"ボーナス報酬条件達成！
-ミッションクリア時の報酬が追加されます",,ui\00_message\examine_message\quest\quest_examine_q50400014.gmd,\quest\q50400014.arc,q50400014.arc,1,
+ミッションクリア時の報酬が追加されます","Bonus requirements met! Additional rewards
+will be granted upon mission completion.",ui\00_message\examine_message\quest\quest_examine_q50400014.gmd,\quest\q50400014.arc,q50400014.arc,1,
 0,,"ボーナス報酬条件達成！
-ミッションクリア時の報酬が追加されます",,ui\00_message\examine_message\quest\quest_examine_q50400015.gmd,\quest\q50400015.arc,q50400015.arc,0,
+ミッションクリア時の報酬が追加されます","Bonus requirements met! Additional rewards
+will be granted upon mission completion.",ui\00_message\examine_message\quest\quest_examine_q50400015.gmd,\quest\q50400015.arc,q50400015.arc,0,
 0,,"ボーナス報酬条件達成！
-ミッションクリア時の報酬が追加されます",,ui\00_message\examine_message\quest\quest_examine_q50400015.gmd,\quest\q50400015.arc,q50400015.arc,1,
+ミッションクリア時の報酬が追加されます","Bonus requirements met! Additional rewards
+will be granted upon mission completion.",ui\00_message\examine_message\quest\quest_examine_q50400015.gmd,\quest\q50400015.arc,q50400015.arc,1,
 0,,"何者かが刻んだ教えの言葉が浮かび上がっている――
 「一つ――敵を《怒り状態》にせよ」","Teachings carved by someone emerge—
 
@@ -1099,97 +1117,124 @@ focus on evasion.""",ui\00_message\examine_message\quest\quest_examine_q60000019
 　直接ダメージを与える事ができる」","""You can deal direct damage even
 while clinging to an enemy.""",ui\00_message\examine_message\quest\quest_examine_q60000019.gmd,\quest\q60000019.arc,q60000019.arc,14,Renton
 0,,《破攻の証》を手に入れた！,You have obtained the 《Mark of Breaking》!,ui\00_message\examine_message\quest\quest_examine_q60000019.gmd,\quest\q60000019.arc,q60000019.arc,15,Renton
-0,,プレイポイントショップを解放しました,,ui\00_message\examine_message\quest\quest_examine_q60200014.gmd,\quest\q60200014.arc,q60200014.arc,0,Archibald
+0,,プレイポイントショップを解放しました,"Play Point Shop unlocked!",ui\00_message\examine_message\quest\quest_examine_q60200014.gmd,\quest\q60200014.arc,q60200014.arc,0,Archibald
 0,,キャンディのようなものを拾った,You pick up something that looks like candy.,ui\00_message\examine_message\quest\quest_examine_q60200015.gmd,\quest\q60200015.arc,q60200015.arc,0,Angelo
 0,,《霊槍の証》を手に入れた！,You have obtained the 《Spirit Lancer's Mark》!,ui\00_message\examine_message\quest\quest_examine_q60200050.gmd,\quest\q60200050.arc,q60200050.arc,0,Renton
-0,,手掛かりになりそうな物は見つからない...,,ui\00_message\examine_message\quest\quest_examine_q60200200.gmd,\quest\q60200200.arc,q60200200.arc,0,Joseph
-0,,不思議な香りの植物を見つけた,,ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,0,Klaus
-0,,不思議な色の植物を見つけた,,ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,1,Klaus
-0,,不思議な形の植物を見つけた,,ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,2,Klaus
-0,,不思議な触感の植物を見つけた,,ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,3,Klaus
-0,,植物に集う魔物を討伐する,,ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,4,Klaus
-0,,何とも言えない外見の植物を見つけた,,ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,5,Joseph
-0,,植物を入手した,,ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,6,Joseph
-0,,聞いた植物の場所を地図に記入した,,ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,7,Joseph
+0,,手掛かりになりそうな物は見つからない...,"I can't find anything that looks like a clue...",ui\00_message\examine_message\quest\quest_examine_q60200200.gmd,\quest\q60200200.arc,q60200200.arc,0,Joseph
+0,,不思議な香りの植物を見つけた,"You found a plant with a mysterious aroma.",ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,0,Klaus
+0,,不思議な色の植物を見つけた,"You found a plant with a mysterious color.",ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,1,Klaus
+0,,不思議な形の植物を見つけた,"You found a plant with a mysterious shape.",ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,2,Klaus
+0,,不思議な触感の植物を見つけた,"You found a plant with a mysterious texture.",ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,3,Klaus
+0,,植物に集う魔物を討伐する,"Subjugate the monsters drawn to the plants.",ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,4,Klaus
+0,,何とも言えない外見の植物を見つけた,"You found a plant with a questionable appearance.",ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,5,Joseph
+0,,植物を入手した,"Obtained the plant.",ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,6,Joseph
+0,,聞いた植物の場所を地図に記入した,"The plant's location has been marked on the map.",ui\00_message\examine_message\quest\quest_examine_q60200202.gmd,\quest\q60200202.arc,q60200202.arc,7,Joseph
 0,,"地図の切れ端のようなものがある
-ダウ渓谷のとある場所に印がついている",,ui\00_message\examine_message\quest\quest_examine_q60200203.gmd,\quest\q60200203.arc,q60200203.arc,0,Joseph
+ダウ渓谷のとある場所に印がついている","You found a map fragment.
+A certain spot in Dowe Valley is marked upon it.",ui\00_message\examine_message\quest\quest_examine_q60200203.gmd,\quest\q60200203.arc,q60200203.arc,0,Joseph
 0,,"かすれた文字が刻まれている
-＜ダウ渓谷...大滝...＞と書かれているようだ",,ui\00_message\examine_message\quest\quest_examine_q60200203.gmd,\quest\q60200203.arc,q60200203.arc,1,Joseph
-0,,結界を張る護符を1つ破壊した！（残り２）,,ui\00_message\examine_message\quest\quest_examine_q60214003.gmd,\quest\q60214003.arc,q60214003.arc,0,Mucel
-0,,結界の封印が解除された！――NPC救出成功！,,ui\00_message\examine_message\quest\quest_examine_q60214003.gmd,\quest\q60214003.arc,q60214003.arc,1,Mucel
-0,,結界を守る魔物が出現！,,ui\00_message\examine_message\quest\quest_examine_q60214003.gmd,\quest\q60214003.arc,q60214003.arc,2,Mucel
-0,,結界を張る護符を1つ破壊した！（残り１）,,ui\00_message\examine_message\quest\quest_examine_q60214003.gmd,\quest\q60214003.arc,q60214003.arc,3,Dirith
-0,,未知なる魔物の気配がする――,,ui\00_message\examine_message\quest\quest_examine_q60214006.gmd,\quest\q60214006.arc,q60214006.arc,0,Glenis
-0,,撤退命令が発動！！――所定の場所まで立て直せ！,,ui\00_message\examine_message\quest\quest_examine_q60214006.gmd,\quest\q60214006.arc,q60214006.arc,1,Nora
-0,,＜割れた鍵の欠片＞を入手した,,ui\00_message\examine_message\quest\quest_examine_q60215001.gmd,\quest\q60215001.arc,q60215001.arc,0,Razanailt
-0,,＜割れた鍵の欠片＞を入手した,,ui\00_message\examine_message\quest\quest_examine_q60215001.gmd,\quest\q60215001.arc,q60215001.arc,1,Razanailt
-0,,結界を張る護符を1つ破壊した！（残り２）,,ui\00_message\examine_message\quest\quest_examine_q60215003.gmd,\quest\q60215003.arc,q60215003.arc,0,Corentin
-0,,結界の封印が解除された！――仲間の救出成功！,,ui\00_message\examine_message\quest\quest_examine_q60215003.gmd,\quest\q60215003.arc,q60215003.arc,1,Corentin
-0,,結界を守る魔物が出現！,,ui\00_message\examine_message\quest\quest_examine_q60215003.gmd,\quest\q60215003.arc,q60215003.arc,2,Corentin
-0,,結界を張る護符を1つ破壊した！（残り１）,,ui\00_message\examine_message\quest\quest_examine_q60215003.gmd,\quest\q60215003.arc,q60215003.arc,3,Enan
-0,,撤退命令が発動！！――所定の場所まで立て直せ！,,ui\00_message\examine_message\quest\quest_examine_q60215005.gmd,\quest\q60215005.arc,q60215005.arc,0,Razanailt
-0,,＜フィンバーのメモ＞を入手した,,ui\00_message\examine_message\quest\quest_examine_q60216001.gmd,\quest\q60216001.arc,q60216001.arc,0,Arthfael
-0,,＜フィンバーのメモ＞を入手した,,ui\00_message\examine_message\quest\quest_examine_q60216001.gmd,\quest\q60216001.arc,q60216001.arc,1,Arthfael
-0,,結界を張る護符を1つ破壊した！（残り２）,,ui\00_message\examine_message\quest\quest_examine_q60216003.gmd,\quest\q60216003.arc,q60216003.arc,0,Arthfael
-0,,結界の封印が解除された！――仲間の救出成功！,,ui\00_message\examine_message\quest\quest_examine_q60216003.gmd,\quest\q60216003.arc,q60216003.arc,1,Arthfael
-0,,結界を守る魔物が出現！,,ui\00_message\examine_message\quest\quest_examine_q60216003.gmd,\quest\q60216003.arc,q60216003.arc,2,Thorin
-0,,結界を張る護符を1つ破壊した！（残り１）,,ui\00_message\examine_message\quest\quest_examine_q60216003.gmd,\quest\q60216003.arc,q60216003.arc,3,Thorin
-0,,魔族の痕跡を調べた,,ui\00_message\examine_message\quest\quest_examine_q60217001.gmd,\quest\q60217001.arc,q60217001.arc,0,Ciarán
-0,,魔族の痕跡を調べた,,ui\00_message\examine_message\quest\quest_examine_q60217001.gmd,\quest\q60217001.arc,q60217001.arc,1,Ciarán
-0,,結界を張る護符を1つ破壊した！（残り２）,,ui\00_message\examine_message\quest\quest_examine_q60217003.gmd,\quest\q60217003.arc,q60217003.arc,0,Adelin
-0,,結界の封印が解除された！――仲間の救出成功！,,ui\00_message\examine_message\quest\quest_examine_q60217003.gmd,\quest\q60217003.arc,q60217003.arc,1,Adelin
-0,,結界を守る魔物が出現！,,ui\00_message\examine_message\quest\quest_examine_q60217003.gmd,\quest\q60217003.arc,q60217003.arc,2,Adelin
-0,,結界を張る護符を1つ破壊した！（残り１）,,ui\00_message\examine_message\quest\quest_examine_q60217003.gmd,\quest\q60217003.arc,q60217003.arc,3,Adelin
-0,,――おや？,,ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,0,Barton
-0,,――マンドラゴラはびっくりして逃げ出した！！,,ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,1,Barton
-0,,――ここにマンドラゴラはいなかったようだ,,ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,2,Barton
-0,,マンドラゴラは慕ってくれたようだ――やったー！！,,ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,3,Barton
-0,,おびえているようだ――エモートで＜手招き＞してみよう！,,ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,4,Aidas
-0,,まだおびえているようだ――エモートで＜歓迎＞してみよう！,,ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,5,Aidas
-0,,《閃きの果実》を見つけた,,ui\00_message\examine_message\quest\quest_examine_q60300011.gmd,\quest\q60300011.arc,q60300011.arc,0,Alvar
-0,,ドアの外から誰かの声が聞こえる――,,ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,0,Ennis
-0,,外がなんだか騒がしい――,,ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,1,Ennis
-0,,豪華で柔らかいベッドだ――,,ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,2,Ennis
-0,,豪勢なフルーツの盛り合わせだ――,,ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,3,Ennis
-0,,アッカーシェランの歴史書がある――,,ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,4,Ennis
+＜ダウ渓谷...大滝...＞と書かれているようだ","Faint characters are carved here.
+It appears to read: <Dowe Valley... Great Falls...>",ui\00_message\examine_message\quest\quest_examine_q60200203.gmd,\quest\q60200203.arc,q60200203.arc,1,Joseph
+0,,結界を張る護符を1つ破壊した！（残り２）,"You destroyed a warding talisman! (2 remaining)",ui\00_message\examine_message\quest\quest_examine_q60214003.gmd,\quest\q60214003.arc,q60214003.arc,0,Mucel
+0,,結界の封印が解除された！――NPC救出成功！,"The ward's seal has been broken! —
+NPC rescued successfully!",ui\00_message\examine_message\quest\quest_examine_q60214003.gmd,\quest\q60214003.arc,q60214003.arc,1,Mucel
+0,,結界を守る魔物が出現！,"Monsters defending the ward have appeared!",ui\00_message\examine_message\quest\quest_examine_q60214003.gmd,\quest\q60214003.arc,q60214003.arc,2,Mucel
+0,,結界を張る護符を1つ破壊した！（残り１）,"You destroyed a warding talisman! (1 remaining)",ui\00_message\examine_message\quest\quest_examine_q60214003.gmd,\quest\q60214003.arc,q60214003.arc,3,Dirith
+0,,未知なる魔物の気配がする――,"You sense the presence of an unknown monster—",ui\00_message\examine_message\quest\quest_examine_q60214006.gmd,\quest\q60214006.arc,q60214006.arc,0,Glenis
+0,,撤退命令が発動！！――所定の場所まで立て直せ！,"A retreat order has been issued! —
+Fall back to the designated position!",ui\00_message\examine_message\quest\quest_examine_q60214006.gmd,\quest\q60214006.arc,q60214006.arc,1,Nora
+0,,＜割れた鍵の欠片＞を入手した,"You have obtained a <Cracked Key Fragment>.",ui\00_message\examine_message\quest\quest_examine_q60215001.gmd,\quest\q60215001.arc,q60215001.arc,0,Razanailt
+0,,＜割れた鍵の欠片＞を入手した,"You have obtained a <Cracked Key Fragment>.",ui\00_message\examine_message\quest\quest_examine_q60215001.gmd,\quest\q60215001.arc,q60215001.arc,1,Razanailt
+0,,結界を張る護符を1つ破壊した！（残り２）,"You destroyed a warding talisman! (2 remaining)",ui\00_message\examine_message\quest\quest_examine_q60215003.gmd,\quest\q60215003.arc,q60215003.arc,0,Corentin
+0,,結界の封印が解除された！――仲間の救出成功！,"The ward's seal has been broken! —
+Your allies have been rescued successfully!",ui\00_message\examine_message\quest\quest_examine_q60215003.gmd,\quest\q60215003.arc,q60215003.arc,1,Corentin
+0,,結界を守る魔物が出現！,"Monsters defending the ward have appeared!",ui\00_message\examine_message\quest\quest_examine_q60215003.gmd,\quest\q60215003.arc,q60215003.arc,2,Corentin
+0,,結界を張る護符を1つ破壊した！（残り１）,"You destroyed a warding talisman! (1 remaining)",ui\00_message\examine_message\quest\quest_examine_q60215003.gmd,\quest\q60215003.arc,q60215003.arc,3,Enan
+0,,撤退命令が発動！！――所定の場所まで立て直せ！,"A retreat order has been issued! —
+Fall back to the designated position!",ui\00_message\examine_message\quest\quest_examine_q60215005.gmd,\quest\q60215005.arc,q60215005.arc,0,Razanailt
+0,,＜フィンバーのメモ＞を入手した,"You have obtained <Finbarr's Note>.",ui\00_message\examine_message\quest\quest_examine_q60216001.gmd,\quest\q60216001.arc,q60216001.arc,0,Arthfael
+0,,＜フィンバーのメモ＞を入手した,"You have obtained <Finbarr's Note>.",ui\00_message\examine_message\quest\quest_examine_q60216001.gmd,\quest\q60216001.arc,q60216001.arc,1,Arthfael
+0,,結界を張る護符を1つ破壊した！（残り２）,"You destroyed a warding talisman! (2 remaining)",ui\00_message\examine_message\quest\quest_examine_q60216003.gmd,\quest\q60216003.arc,q60216003.arc,0,Arthfael
+0,,結界の封印が解除された！――仲間の救出成功！,"The ward's seal has been broken! —
+Your allies have been rescued successfully!",ui\00_message\examine_message\quest\quest_examine_q60216003.gmd,\quest\q60216003.arc,q60216003.arc,1,Arthfael
+0,,結界を守る魔物が出現！,"Monsters defending the ward have appeared!",ui\00_message\examine_message\quest\quest_examine_q60216003.gmd,\quest\q60216003.arc,q60216003.arc,2,Thorin
+0,,結界を張る護符を1つ破壊した！（残り１）,"You destroyed a warding talisman! (1 remaining)",ui\00_message\examine_message\quest\quest_examine_q60216003.gmd,\quest\q60216003.arc,q60216003.arc,3,Thorin
+0,,魔族の痕跡を調べた,"You investigated the traces of the demonkind.",ui\00_message\examine_message\quest\quest_examine_q60217001.gmd,\quest\q60217001.arc,q60217001.arc,0,Ciarán
+0,,魔族の痕跡を調べた,"You investigated the traces of the demonkind.",ui\00_message\examine_message\quest\quest_examine_q60217001.gmd,\quest\q60217001.arc,q60217001.arc,1,Ciarán
+0,,結界を張る護符を1つ破壊した！（残り２）,"You destroyed a warding talisman! (2 remaining)",ui\00_message\examine_message\quest\quest_examine_q60217003.gmd,\quest\q60217003.arc,q60217003.arc,0,Adelin
+0,,結界の封印が解除された！――仲間の救出成功！,"The ward's seal has been broken! —
+Your allies have been rescued successfully!",ui\00_message\examine_message\quest\quest_examine_q60217003.gmd,\quest\q60217003.arc,q60217003.arc,1,Adelin
+0,,結界を守る魔物が出現！,"Monsters defending the ward have appeared!",ui\00_message\examine_message\quest\quest_examine_q60217003.gmd,\quest\q60217003.arc,q60217003.arc,2,Adelin
+0,,結界を張る護符を1つ破壊した！（残り１）,"You destroyed a warding talisman! (1 remaining)",ui\00_message\examine_message\quest\quest_examine_q60217003.gmd,\quest\q60217003.arc,q60217003.arc,3,Adelin
+0,,――おや？,"——Oh?",ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,0,Barton
+0,,――マンドラゴラはびっくりして逃げ出した！！,"——The Mandragora was startled and fled!",ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,1,Barton
+0,,――ここにマンドラゴラはいなかったようだ,"——It seems there was no Mandragora here after all.",ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,2,Barton
+0,,マンドラゴラは慕ってくれたようだ――やったー！！,"——The Mandragora seems to have
+taken a liking to you! Hooray!!",ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,3,Barton
+0,,おびえているようだ――エモートで＜手招き＞してみよう！,"It seems to be frightened—
+try using the <Come Here> emote!",ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,4,Aidas
+0,,まだおびえているようだ――エモートで＜歓迎＞してみよう！,"It still seems to be frightened—
+try using the <Welcome> emote!",ui\00_message\examine_message\quest\quest_examine_q60300001.gmd,\quest\q60300001.arc,q60300001.arc,5,Aidas
+0,,《閃きの果実》を見つけた,"You found a <Fruit of Inspiration>!",ui\00_message\examine_message\quest\quest_examine_q60300011.gmd,\quest\q60300011.arc,q60300011.arc,0,Alvar
+0,,ドアの外から誰かの声が聞こえる――,"You can hear someone's voice
+from outside the door—",ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,0,Ennis
+0,,外がなんだか騒がしい――,"It's rather noisy outside—",ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,1,Ennis
+0,,豪華で柔らかいベッドだ――,"It's a luxurious and soft bed—",ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,2,Ennis
+0,,豪勢なフルーツの盛り合わせだ――,"It's a magnificent assortment of fruit—",ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,3,Ennis
+0,,アッカーシェランの歴史書がある――,"There is a history book of Acre Selund—",ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,4,Ennis
 0,,"他人の屋敷だ――
-勝手に歩き回るのはやめておこう",,ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,5,Ennis
-0,,――帰還兵を発見した！,,ui\00_message\examine_message\quest\quest_examine_q60300050.gmd,\quest\q60300050.arc,q60300050.arc,0,Carrie
-0,,――料理が冷めたようだ！作り直そう！,,ui\00_message\examine_message\quest\quest_examine_q60300050.gmd,\quest\q60300050.arc,q60300050.arc,1,Carrie
-0,,――敵の増援が出現した！,,ui\00_message\examine_message\quest\quest_examine_q60300052.gmd,\quest\q60300052.arc,q60300052.arc,0,Carrie
-0,,――作戦を待つ兵士を発見した！,,ui\00_message\examine_message\quest\quest_examine_q60300060.gmd,\quest\q60300060.arc,q60300060.arc,0,Sonel
-0,,――<NPC 582>の眠気が限界のようだ！一度休憩しよう！,,ui\00_message\examine_message\quest\quest_examine_q60300060.gmd,\quest\q60300060.arc,q60300060.arc,1,Sonel
-0,,――敵の増援が出現した！,,ui\00_message\examine_message\quest\quest_examine_q60300062.gmd,\quest\q60300062.arc,q60300062.arc,0,Sonel
-0,,《魔剣の証》を手に入れた！,,ui\00_message\examine_message\quest\quest_examine_q60300400.gmd,\quest\q60300400.arc,q60300400.arc,0,Renton
-0,,エントが倒れた場所にキラキラと光る不思議な欠片が落ちていた,,ui\00_message\examine_message\quest\quest_examine_q60301003.gmd,\quest\q60301003.arc,q60301003.arc,0,Nicholas
-0,,メイリーフから光る欠片をもらった,,ui\00_message\examine_message\quest\quest_examine_q60301003.gmd,\quest\q60301003.arc,q60301003.arc,1,Nicholas
-0,,リサから光る欠片をもらった,,ui\00_message\examine_message\quest\quest_examine_q60301004.gmd,\quest\q60301004.arc,q60301004.arc,0,Mia
-0,,シーベルから光る欠片をもらった,,ui\00_message\examine_message\quest\quest_examine_q60301005.gmd,\quest\q60301005.arc,q60301005.arc,0,Marco
-0,,クレイグから光る欠片をもらった,,ui\00_message\examine_message\quest\quest_examine_q60301005.gmd,\quest\q60301005.arc,q60301005.arc,1,Marco
-0,,アイザックから光る欠片をもらった,,ui\00_message\examine_message\quest\quest_examine_q60301005.gmd,\quest\q60301005.arc,q60301005.arc,2,Marco
-0,,お化け達の去った跡に大量のお菓子を見つけた！,,ui\00_message\examine_message\quest\quest_examine_q60301052.gmd,\quest\q60301052.arc,q60301052.arc,0,Angelo
-0,,エントの去った跡に沢山の木が転がっている,,ui\00_message\examine_message\quest\quest_examine_q60301055.gmd,\quest\q60301055.arc,q60301055.arc,0,Nicholas
-0,,見たこともない不思議な雰囲気の「閃きの果実」を貰った,,ui\00_message\examine_message\quest\quest_examine_q60301056.gmd,\quest\q60301056.arc,q60301056.arc,0,Mia
-0,,どこからともなく声が聞こえてくる――,,ui\00_message\examine_message\quest\quest_examine_q60310000.gmd,\quest\q60310000.arc,q60310000.arc,0,Wilson
-0,,――敵本軍が出現！,,ui\00_message\examine_message\quest\quest_examine_q60318000.gmd,\quest\q60318000.arc,q60318000.arc,0,Endale
-0,,――この周辺にはいないようだ！他を探そう！,,ui\00_message\examine_message\quest\quest_examine_q60318000.gmd,\quest\q60318000.arc,q60318000.arc,1,Endale
-0,,――仲間の救援部隊が到着した！,,ui\00_message\examine_message\quest\quest_examine_q60318001.gmd,\quest\q60318001.arc,q60318001.arc,0,Orhan
-0,,――敵軍が増援部隊を招集！,,ui\00_message\examine_message\quest\quest_examine_q60318001.gmd,\quest\q60318001.arc,q60318001.arc,1,Orhan
-0,,――敵の痕跡を発見した！,,ui\00_message\examine_message\quest\quest_examine_q60318003.gmd,\quest\q60318003.arc,q60318003.arc,0,Dana
-0,,――敵の痕跡を見失った！,,ui\00_message\examine_message\quest\quest_examine_q60318003.gmd,\quest\q60318003.arc,q60318003.arc,1,Dana
-0,,――敵の気配を発見した！出現場所へ！,,ui\00_message\examine_message\quest\quest_examine_q60318003.gmd,\quest\q60318003.arc,q60318003.arc,2,Dana
-0,,――敵の痕跡ではなかった！他を探そう！,,ui\00_message\examine_message\quest\quest_examine_q60318003.gmd,\quest\q60318003.arc,q60318003.arc,3,Dana
-0,,――この周辺に伝令兵はいないようだ！他を探そう！,,ui\00_message\examine_message\quest\quest_examine_q60318010.gmd,\quest\q60318010.arc,q60318010.arc,0,Endale
-0,,――敵の伝令兵を発見した！,,ui\00_message\examine_message\quest\quest_examine_q60318010.gmd,\quest\q60318010.arc,q60318010.arc,1,Endale
-0,,――敵軍の指令書を発見した！,,ui\00_message\examine_message\quest\quest_examine_q60318010.gmd,\quest\q60318010.arc,q60318010.arc,2,Endale
-0,,――敵の伝令兵が何か落としたようだ！,,ui\00_message\examine_message\quest\quest_examine_q60318010.gmd,\quest\q60318010.arc,q60318010.arc,3,Endale
-0,,――敵の増援部隊が出現！,,ui\00_message\examine_message\quest\quest_examine_q60318011.gmd,\quest\q60318011.arc,q60318011.arc,0,Endale
-0,,――支給品に必要な物資を回収した！,,ui\00_message\examine_message\quest\quest_examine_q60319000.gmd,\quest\q60319000.arc,q60319000.arc,0,Nazik
-0,,――敵の痕跡を発見した！,,ui\00_message\examine_message\quest\quest_examine_q60319001.gmd,\quest\q60319001.arc,q60319001.arc,0,Guy
-0,,――敵の痕跡を見失った！,,ui\00_message\examine_message\quest\quest_examine_q60319001.gmd,\quest\q60319001.arc,q60319001.arc,1,Guy
-0,,――敵の気配を発見した！出現場所へ！,,ui\00_message\examine_message\quest\quest_examine_q60319001.gmd,\quest\q60319001.arc,q60319001.arc,2,Guy
-0,,――敵の痕跡ではなかった！他を探そう！,,ui\00_message\examine_message\quest\quest_examine_q60319001.gmd,\quest\q60319001.arc,q60319001.arc,3,Guy
-0,,――仲間の救援部隊が到着した！,,ui\00_message\examine_message\quest\quest_examine_q60319003.gmd,\quest\q60319003.arc,q60319003.arc,0,Artin
-0,,――敵軍が増援部隊を招集！,,ui\00_message\examine_message\quest\quest_examine_q60319003.gmd,\quest\q60319003.arc,q60319003.arc,1,Artin
-0,,――未知の魔物が出現した！,,ui\00_message\examine_message\quest\quest_examine_q60319011.gmd,\quest\q60319011.arc,q60319011.arc,0,Nazik
-0,,――異形の魔物に逃げられた！,,ui\00_message\examine_message\quest\quest_examine_q60319011.gmd,\quest\q60319011.arc,q60319011.arc,1,Nazik
+勝手に歩き回るのはやめておこう","This is someone else's manor—
+I should probably stop wandering around
+as if I own the place.",ui\00_message\examine_message\quest\quest_examine_q60300032.gmd,\quest\q60300032.arc,q60300032.arc,5,Ennis
+0,,――帰還兵を発見した！,"——You have discovered a returning soldier!",ui\00_message\examine_message\quest\quest_examine_q60300050.gmd,\quest\q60300050.arc,q60300050.arc,0,Carrie
+0,,――料理が冷めたようだ！作り直そう！,"——It looks like the food has gone cold!
+Let's start over!",ui\00_message\examine_message\quest\quest_examine_q60300050.gmd,\quest\q60300050.arc,q60300050.arc,1,Carrie
+0,,――敵の増援が出現した！,"——Enemy reinforcements have appeared!",ui\00_message\examine_message\quest\quest_examine_q60300052.gmd,\quest\q60300052.arc,q60300052.arc,0,Carrie
+0,,――作戦を待つ兵士を発見した！,"——You have discovered a soldier awaiting orders!",ui\00_message\examine_message\quest\quest_examine_q60300060.gmd,\quest\q60300060.arc,q60300060.arc,0,Sonel
+0,,――<NPC 582>の眠気が限界のようだ！一度休憩しよう！,"——It looks like <NPC 582> has reached their limit
+for sleepiness! Let's take a break!",ui\00_message\examine_message\quest\quest_examine_q60300060.gmd,\quest\q60300060.arc,q60300060.arc,1,Sonel
+0,,――敵の増援が出現した！,"——Enemy reinforcements have appeared!",ui\00_message\examine_message\quest\quest_examine_q60300062.gmd,\quest\q60300062.arc,q60300062.arc,0,Sonel
+0,,《魔剣の証》を手に入れた！,"You have obtained the <Proof of the Magic Sword>!",ui\00_message\examine_message\quest\quest_examine_q60300400.gmd,\quest\q60300400.arc,q60300400.arc,0,Renton
+0,,エントが倒れた場所にキラキラと光る不思議な欠片が落ちていた,"In the place where the Ent fell, a mysterious,
+sparkling fragment lay on the ground—",ui\00_message\examine_message\quest\quest_examine_q60301003.gmd,\quest\q60301003.arc,q60301003.arc,0,Nicholas
+0,,メイリーフから光る欠片をもらった,"You received a glowing fragment from Meileaf!",ui\00_message\examine_message\quest\quest_examine_q60301003.gmd,\quest\q60301003.arc,q60301003.arc,1,Nicholas
+0,,リサから光る欠片をもらった,"You received a glowing fragment from Lisa!",ui\00_message\examine_message\quest\quest_examine_q60301004.gmd,\quest\q60301004.arc,q60301004.arc,0,Mia
+0,,シーベルから光る欠片をもらった,"You received a glowing fragment from Sibel!",ui\00_message\examine_message\quest\quest_examine_q60301005.gmd,\quest\q60301005.arc,q60301005.arc,0,Marco
+0,,クレイグから光る欠片をもらった,"You received a glowing fragment from Craig!",ui\00_message\examine_message\quest\quest_examine_q60301005.gmd,\quest\q60301005.arc,q60301005.arc,1,Marco
+0,,アイザックから光る欠片をもらった,"You received a glowing fragment from Isaac!",ui\00_message\examine_message\quest\quest_examine_q60301005.gmd,\quest\q60301005.arc,q60301005.arc,2,Marco
+0,,お化け達の去った跡に大量のお菓子を見つけた！,"In the wake of the departing ghosts,
+you found a massive hoard of sweets!",ui\00_message\examine_message\quest\quest_examine_q60301052.gmd,\quest\q60301052.arc,q60301052.arc,0,Angelo
+0,,エントの去った跡に沢山の木が転がっている,"In the wake of the Ent's departure,
+a great many logs lay scattered about.",ui\00_message\examine_message\quest\quest_examine_q60301055.gmd,\quest\q60301055.arc,q60301055.arc,0,Nicholas
+0,,見たこともない不思議な雰囲気の「閃きの果実」を貰った,"You received a 'Fruit of Inspiration'
+with a mysterious aura,
+unlike anything you have ever seen.",ui\00_message\examine_message\quest\quest_examine_q60301056.gmd,\quest\q60301056.arc,q60301056.arc,0,Mia
+0,,どこからともなく声が聞こえてくる――,"A voice can be heard drifting from out of nowhere—",ui\00_message\examine_message\quest\quest_examine_q60310000.gmd,\quest\q60310000.arc,q60310000.arc,0,Wilson
+0,,――敵本軍が出現！,"——The enemy's main army has appeared!",ui\00_message\examine_message\quest\quest_examine_q60318000.gmd,\quest\q60318000.arc,q60318000.arc,0,Endale
+0,,――この周辺にはいないようだ！他を探そう！,"——It doesn't look like they are in this area!
+Let's search elsewhere!",ui\00_message\examine_message\quest\quest_examine_q60318000.gmd,\quest\q60318000.arc,q60318000.arc,1,Endale
+0,,――仲間の救援部隊が到着した！,"——Allied rescue forces have arrived!",ui\00_message\examine_message\quest\quest_examine_q60318001.gmd,\quest\q60318001.arc,q60318001.arc,0,Orhan
+0,,――敵軍が増援部隊を招集！,"——The enemy army is summoning reinforcement units!",ui\00_message\examine_message\quest\quest_examine_q60318001.gmd,\quest\q60318001.arc,q60318001.arc,1,Orhan
+0,,――敵の痕跡を発見した！,"——You have discovered traces of the enemy!",ui\00_message\examine_message\quest\quest_examine_q60318003.gmd,\quest\q60318003.arc,q60318003.arc,0,Dana
+0,,――敵の痕跡を見失った！,"——You have lost the enemy's trail!",ui\00_message\examine_message\quest\quest_examine_q60318003.gmd,\quest\q60318003.arc,q60318003.arc,1,Dana
+0,,――敵の気配を発見した！出現場所へ！,"——Enemy presence detected! To the appearance site!",ui\00_message\examine_message\quest\quest_examine_q60318003.gmd,\quest\q60318003.arc,q60318003.arc,2,Dana
+0,,――敵の痕跡ではなかった！他を探そう！,"——False alarm! That wasn't an enemy trail!
+Let's search elsewhere!",ui\00_message\examine_message\quest\quest_examine_q60318003.gmd,\quest\q60318003.arc,q60318003.arc,3,Dana
+0,,――この周辺に伝令兵はいないようだ！他を探そう！,"——It doesn't look like the messenger is
+in this area! Let's search elsewhere!",ui\00_message\examine_message\quest\quest_examine_q60318010.gmd,\quest\q60318010.arc,q60318010.arc,0,Endale
+0,,――敵の伝令兵を発見した！,"——Enemy messenger spotted!",ui\00_message\examine_message\quest\quest_examine_q60318010.gmd,\quest\q60318010.arc,q60318010.arc,1,Endale
+0,,――敵軍の指令書を発見した！,"——Enemy orders discovered!",ui\00_message\examine_message\quest\quest_examine_q60318010.gmd,\quest\q60318010.arc,q60318010.arc,2,Endale
+0,,――敵の伝令兵が何か落としたようだ！,"——It looks like the enemy messenger
+dropped something!",ui\00_message\examine_message\quest\quest_examine_q60318010.gmd,\quest\q60318010.arc,q60318010.arc,3,Endale
+0,,――敵の増援部隊が出現！,"——Enemy reinforcements have appeared!",ui\00_message\examine_message\quest\quest_examine_q60318011.gmd,\quest\q60318011.arc,q60318011.arc,0,Endale
+0,,――支給品に必要な物資を回収した！,"——Secured the necessary items
+from the supply cache!",ui\00_message\examine_message\quest\quest_examine_q60319000.gmd,\quest\q60319000.arc,q60319000.arc,0,Nazik
+0,,――敵の痕跡を発見した！,"——You have discovered traces of the enemy!",ui\00_message\examine_message\quest\quest_examine_q60319001.gmd,\quest\q60319001.arc,q60319001.arc,0,Guy
+0,,――敵の痕跡を見失った！,"——You have lost the enemy's trail!",ui\00_message\examine_message\quest\quest_examine_q60319001.gmd,\quest\q60319001.arc,q60319001.arc,1,Guy
+0,,――敵の気配を発見した！出現場所へ！,"——Enemy presence detected! To the appearance site!",ui\00_message\examine_message\quest\quest_examine_q60319001.gmd,\quest\q60319001.arc,q60319001.arc,2,Guy
+0,,――敵の痕跡ではなかった！他を探そう！,"——False alarm! That wasn't an enemy trail!
+Let's search elsewhere!",ui\00_message\examine_message\quest\quest_examine_q60319001.gmd,\quest\q60319001.arc,q60319001.arc,3,Guy
+0,,――仲間の救援部隊が到着した！,"——Allied rescue forces have arrived!",ui\00_message\examine_message\quest\quest_examine_q60319003.gmd,\quest\q60319003.arc,q60319003.arc,0,Artin
+0,,――敵軍が増援部隊を招集！,"——The enemy army is summoning reinforcement units!",ui\00_message\examine_message\quest\quest_examine_q60319003.gmd,\quest\q60319003.arc,q60319003.arc,1,Artin
+0,,――未知の魔物が出現した！,"——An unknown monster has appeared!",ui\00_message\examine_message\quest\quest_examine_q60319011.gmd,\quest\q60319011.arc,q60319011.arc,0,Nazik
+0,,――異形の魔物に逃げられた！,"——The monstrous creature has escaped!",ui\00_message\examine_message\quest\quest_examine_q60319011.gmd,\quest\q60319011.arc,q60319011.arc,1,Nazik
