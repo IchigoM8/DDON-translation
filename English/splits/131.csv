@@ -893,7 +893,7 @@ don't hold back.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_ta
 0,,"マスターのキモチ――
 なんだか少し、分かってきた気がするだなんて
 ふふ、うぬぼれかしらね","Your feelings, Master... I feel as though
-I’m finally starting to understand them.
+I'm finally starting to understand them.
 Heh... perhaps that is merely conceit on my part.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,24,
 0,,"あら―――
 今、マスターの事を考えていたの
@@ -906,12 +906,12 @@ but to tell the truth, I'm always thinking of you.",ui\00_message\pawn\talk\stag
 いえ――ただ、あたしはあなたが心配なのよ
 少しは休んでくれると安心できるんだけど――","Off to battle again today? No...
 it's just that I worry for you.
-I’d feel so much better if you’d
+I'd feel so much better if you'd
 just rest for a little while.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,27,
 0,,"もう出発するのね！
 ええ、すぐに準備するわ
 ――待っていてくださいね？","Departing already? Of course!
-I’ll be ready in a heartbeat—
+I'll be ready in a heartbeat—
 please wait for me, okay?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,28,
 0,,"今日も行くのね――
 無理はしないでくださいね","Off again, I see...
@@ -989,15 +989,15 @@ I'll let you in on a secret...
 I clean it myself every single day.
 While thinking of you, of course.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,42,
 0,,さあ、行きましょう！,"Come now, let us be off!
-I’m right behind you, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,43,
+I'm right behind you, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,43,
 0,,お願い聞いてくれないんですか？,"Oh? You won't even listen to my little request?
 How cruel of you, Master...",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,44,
-0,,早くいきましょう！,"Hurry now, let’s get moving!
+0,,早くいきましょう！,"Hurry now, let's get moving!
 You aren't going to keep me waiting all day,
 are you? Fufu.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,45,
 0,,"うふふ――ありがとう、マスター
 あたしは待ってるから、いつでもいいわ","Ufufu... Thank you, Master.
-I’ll be waiting right here for you.
+I'll be waiting right here for you.
 Take as long as you like.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,46,
 0,,"そう――？　残念だわ
 気が変わったら、教えてくださいね","Is that so...? What a shame.
@@ -1016,7 +1016,7 @@ I'm content.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\p
 0,,"お帰りなさい、マスター
 ウェアをお洗濯しておきましたからね
 ――あたしに触られたくなかったかしら？","Welcome back, Master.
-I’ve finished laundering your... inner wear.
+I've finished laundering your... inner wear.
 Or perhaps you didn't want me touching
 things so close to your skin? Fufu.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,50,
 0,,"お帰りなさい、マスター
@@ -1067,10 +1067,10 @@ such a thought might be of some use to you.",ui\00_message\pawn\talk\stage\featu
 0,,"マスター、もしクランに入っているなら
 ポーン遠征隊を毎日派遣するといいそうよ
 あたしも、マスターと離れるのは寂しいけれど――
-頑張ってお宝を見つけてきますから","Master, if you’re part of a Clan, they say
+頑張ってお宝を見つけてきますから","Master, if you're part of a Clan, they say
 you should send out a Pawn Expedition every day.
 It breaks my heart to be away from you...
-but I’ll work my hardest to find you something
+but I'll work my hardest to find you something
 truly special.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,57,
 0,,"マスター、あのね――
 あたしがリムストーン以外のものを
@@ -1082,11 +1082,11 @@ think of me? Would you simply think...
 0,,"マスターも、気付いているでしょう？
 ダンジョンでたまに見かける、怪しい紙切れ――
 きっと何かの一部だと思うの
-ああいうのって、なんだかワクワクするわね","You’ve noticed them too, haven't you, Master?
+ああいうのって、なんだかワクワクするわね","You've noticed them too, haven't you, Master?
 Those mysterious scraps of paper
 we find in the dungeons...
-I’m certain they’re pieces of something greater.
-It’s quite... exhilarating, isn't it?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,59,
+I'm certain they're pieces of something greater.
+It's quite... exhilarating, isn't it?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,59,
 0,,"本当？　嬉しいわ、マスター
 準備は出来ているから、いつでも出発できますよ","Truly? Oh, I'm so glad, Master.
 I'm all ready to go...
@@ -1100,45 +1100,45 @@ somewhere you'll truly love.",ui\00_message\pawn\talk\stage\feature9001\persona0
 ふふ、わかってるわ
 準備は大切ですものね、待っているわ","Oh, not going yet, Master? Fufu... I understand.
 Preparation is everything, after all.
-I’ll be right here waiting.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,62,
+I'll be right here waiting.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,62,
 0,,"あたし、写真写り悪くなかったかしら――
 だけどこうしてのんびりするのも
 たまには良いものね","I hope I didn't look too dreadful in that photo...
-Still, it’s nice to just relax like this
+Still, it's nice to just relax like this
 for a change, isn't it? Fufu.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,63,
 0,,"お声がけくださったのね
 ありがとうございます、マスター","Oh, you're speaking to me? Thank you, Master...
 it truly means the world.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,64,
 0,,実は、マスターに伺いたいことがあるの,"Actually, Master...
-there's something I’ve been meaning to ask you.
+there's something I've been meaning to ask you.
 Do you have a moment?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,65,
 0,,"今の私の戦い方、どう思われるか――
 本音をお聞かせ願えないかしら？","Tell me, Master...
 what do you think of the way I fight lately?
 Please... I want your honest opinion.
 Don't hold back.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,66,
-0,,ご指導お願いします――お手柔らかにね,"I’m ready for your guidance...
+0,,ご指導お願いします――お手柔らかにね,"I'm ready for your guidance...
 but do try to be gentle with me, won't you? Fufu.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,67,
 0,,"わかりました
 それじゃあ、今のままでいいのね","I understand. So... you like me just the way I am?
 Fufu. That makes me very happy.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,68,
 0,,"<VAL>について？
-ええ、ぜひ聞かせてくださいな","About <VAL>? Oh, by all means... I’m all ears.
-I’d love to hear what's on your mind, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,69,
+ええ、ぜひ聞かせてくださいな","About <VAL>? Oh, by all means... I'm all ears.
+I'd love to hear what's on your mind, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,69,
 0,,"わかったわ――それじゃあ今度から
 <VAL>については、
 <VAL>ように
 した方がいいのね？","I understand. So, from now on...
 when it comes to <VAL>,
 I should try to <VAL> instead?
-Is that what you’d prefer?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,70,
+Is that what you'd prefer?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,70,
 0,,"わかったわ――それじゃあ今度から
 <VAL>に対しては、
 <VAL>の使用頻度を
 <VAL>ようにした方がいいのね？","I understand... So, from now on,
 when facing <VAL>,
 I should <VAL> the frequency of using <VAL>?
-Is that what you’d prefer?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,71,
+Is that what you'd prefer?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,71,
 0,,"わかったわ――それじゃあ今度から
 <VAL>ことの
 <VAL>は、もっと<VAL>ように
@@ -1149,12 +1149,12 @@ If that is what you desire, Master.",ui\00_message\pawn\talk\stage\feature9001\p
 0,,"わかったわ――それじゃあ今度から
 <VAL>ように
 した方が良いのね？","I understand. So, from now on...
-you’d prefer it if I <VAL>? Fufu.
+you'd prefer it if I <VAL>? Fufu.
 If that is what pleases you, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,73,
 0,,"ねえマスター、他に教えてくださることは
 ないかしら？","Tell me, Master...
-is there anything else you’d like to teach me?
-I’m still quite... eager to learn. Fufu.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,74,
+is there anything else you'd like to teach me?
+I'm still quite... eager to learn. Fufu.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,74,
 0,,"ありがとうございます、マスター――
 ぜひ、また呼んでくださいね","Thank you, Master...
 Please, don't keep me waiting too long
@@ -1170,7 +1170,7 @@ in battle.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_
 0,,"わかったわ――それじゃあ今度から
 <VAL>は
 お任せしてくださるのね？","I understand.
-So, you’re leaving <VAL> entirely to me now? Fufu.
+So, you're leaving <VAL> entirely to me now? Fufu.
 I won't let you down, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,77,
 0,,"わかったわ――それじゃあ今度から
 <VAL>について
