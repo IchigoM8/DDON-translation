@@ -355,273 +355,287 @@ Let's replenish the supplies and take a break!",ui\00_message\pw\pwtlk06.gmd,\ga
 The darkness is going to work!",ui\00_message\pw\pwtlk06.gmd,\game_common.arc,game_common.arc,147,
 0,,雷が効きそうですよ！,"
 Lightning is going to work!",ui\00_message\pw\pwtlk06.gmd,\game_common.arc,game_common.arc,145,
-0,,<COL B6FF01>《剛化》この渾身の力、受けてみやがれ！</COL>,"
-<COL B6FF01>《Harden》This the power of the whole
-body!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,106,
-0,,<COL B6FF01>《剛化》全力でぶっ潰す！</COL>,"
-<COL B6FF01>《Harden》Bust them down with all your
-might!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,107,
-0,,<COL B6FF01>《守護》自分らの守り、ガッチリ固めます</COL>,"
-<COL B6FF01>《Protection》This is the steel
-defense!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,121,
-0,,<COL B6FF01>《守護》覚者さま、しばらくは無茶できますぜ</COL>,"
-<COL B6FF01>《Protection》We're going on the
-offensive!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,120,
-0,,<COL B6FF01>《柔化》片っ端から弱らせてやりますか！</COL>,"
-<COL B6FF01>Shall we 《Weaken》 them from the
-beginning?</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,112,
-0,,<COL B6FF01>《柔化》能力を下げちまえば、怖くもねぇな</COL>,"
-<COL B6FF01>If you 《Weaken》 the ability, it's not
-scary, right?</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,113,
-0,,<COL B6FF01>《無恐》へっ――つまらねぇ攻撃なんぞ無視だ</COL>,"
-<COL B6FF01>《Fearless》There is no attack that
-cannot be endured!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,117,
-0,,<COL B6FF01>《無恐》テメェらの攻撃なんぞ、全部耐えてやらぁ！</COL>,"
-<COL B6FF01>《Fearless》There are no true enemies
-to face!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,116,
-0,,<COL B6FF01>《特技》おい――そろそろ全力でいくぜ！</COL>,"
-<COL B6FF01>《Special Skill》Hey -- it's time to go
-all out!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,104,
-0,,<COL B6FF01>《特技》やってやるぜ、任せときな！</COL>,"
-<COL B6FF01>《Special Skill》I'll do it. I'll take
-care of it!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,105,
-0,,<COL B6FF01>《特技》限界ってのを、いっちょ超えてみせますぜ！</COL>,"
-<COL B6FF01>《Special Skill》I'm going to push the
-limits of what's possible!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,103,
-0,,<COL B6FF01>《癒活》傷や疲れなんぞ、気合いでどうにかならぁ！</COL>,"
-<COL B6FF01>《Restoration》We should still be able
-to fight!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,111,
-0,,<COL B6FF01>《癒活》立て直すぞ――癒しの加護を！</COL>,"
-<COL B6FF01>《Restoration》It gives you a boost
-with the power of healing!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,110,
-0,,<COL B6FF01>《蘇生》覚者さまの命、俺が救いますぜ！</COL>,"
-<COL B6FF01>《Resurrection》Master-! Please stand
-up!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,122,
-0,,<COL B6FF01>《重化》さっさと倒れた方が、いっそ楽だろうに！</COL>,"
-<COL B6FF01>《Heavy》It would be easier to just
-fall down!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,108,
+0,,<COL B6FF01>《剛化》この渾身の力、受けてみやがれ！</COL>,"<COL B6FF01>《Harden》
+Take this!
+Every ounce of my strength is in this blow!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,106,
+0,,<COL B6FF01>《剛化》全力でぶっ潰す！</COL>,"<COL B6FF01>《Harden》
+I'll crush them with everything I've got!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,107,
+0,,<COL B6FF01>《守護》自分らの守り、ガッチリ固めます</COL>,"<COL B6FF01>《Protection》
+I will fortify our defenses
+and hold the line.</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,121,
+0,,<COL B6FF01>《守護》覚者さま、しばらくは無茶できますぜ</COL>,"<COL B6FF01>《Protection》
+Arisen,
+you can afford to cut loose for a while.</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,120,
+0,,<COL B6FF01>《柔化》片っ端から弱らせてやりますか！</COL>,"<COL B6FF01>《Weaken》
+Shall we go and weaken them one by one!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,112,
+0,,<COL B6FF01>《柔化》能力を下げちまえば、怖くもねぇな</COL>,"<COL B6FF01>《Weaken》
+Once we drop their stats,
+they won't even be a threat.</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,113,
+0,,<COL B6FF01>《無恐》へっ――つまらねぇ攻撃なんぞ無視だ</COL>,"<COL B6FF01>《Fearless》
+Heh—I'll ignore such a boring attack.</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,117,
+0,,<COL B6FF01>《無恐》テメェらの攻撃なんぞ、全部耐えてやらぁ！</COL>,"<COL B6FF01>《Fearless》
+I'll tank every single one of your attacks!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,116,
+0,,<COL B6FF01>《特技》おい――そろそろ全力でいくぜ！</COL>,"<COL B6FF01>《Special Skill》
+Hey—it's time to go all out!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,104,
+0,,<COL B6FF01>《特技》やってやるぜ、任せときな！</COL>,"<COL B6FF01>《Special Skill》
+I'm on it, leave it to me!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,105,
+0,,<COL B6FF01>《特技》限界ってのを、いっちょ超えてみせますぜ！</COL>,"<COL B6FF01>《Special Skill》
+I'll show you what it looks like
+to break past my limits!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,103,
+0,,<COL B6FF01>《癒活》傷や疲れなんぞ、気合いでどうにかならぁ！</COL>,"<COL B6FF01>《Restoration》
+Scars and fatigue?
+I can push through those with pure willpower!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,111,
+0,,<COL B6FF01>《癒活》立て直すぞ――癒しの加護を！</COL>,"<COL B6FF01>《Restoration》
+Pull yourselves together—
+I call upon the blessing of healing!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,110,
+0,,<COL B6FF01>《蘇生》覚者さまの命、俺が救いますぜ！</COL>,"<COL B6FF01>《Resurrection》
+I'll be the one to save the Arisen's life!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,122,
+0,,<COL B6FF01>《重化》さっさと倒れた方が、いっそ楽だろうに！</COL>,"<COL B6FF01>《Heavy》
+It'd be a hell of a lot easier for you
+if you just stayed down!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,108,
 0,,"<COL B6FF01>《重化》調子づいてるやつから、
-ぶっ飛ばしてやらぁ！</COL>","
-<COL B6FF01>《Heavy》I'm going to blast the crap
-out of anyone who's getting on my nerves!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,109,
-0,,<COL B6FF01>《集中》ありったけの魔力をぶち込んでやらぁ！</COL>,"
-<COL B6FF01>《Concentration》 Concentrate all your
-energy and chant!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,114,
-0,,<COL B6FF01>《集中》さーて、いっちょう集中といきますかい</COL>,"
-<COL B6FF01>《Concentration》My magical power, now
-is the time to show your strength!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,115,
-0,,<COL B6FF01>《集視》全員、俺の獲物だぁぁ！</COL>,"
-<COL B6FF01>《Attraction》I'll take it all! Come
-and get me!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,118,
-0,,<COL B6FF01>《集視》死にたいやつからかかって来な</COL>,"
-<COL B6FF01>《Attraction》Now is the time to blaze
-a trail!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,119,
+ぶっ飛ばしてやらぁ！</COL>","<COL B6FF01>《Heavy》
+I'll start by knocking down the ones
+who are getting cocky!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,109,
+0,,<COL B6FF01>《集中》ありったけの魔力をぶち込んでやらぁ！</COL>,"<COL B6FF01>《Concentration》
+I'm gonna pump every ounce of
+my magic into this one!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,114,
+0,,<COL B6FF01>《集中》さーて、いっちょう集中といきますかい</COL>,"<COL B6FF01>《Concentration》
+Alright, time to get focused.</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,115,
+0,,<COL B6FF01>《集視》全員、俺の獲物だぁぁ！</COL>,"<COL B6FF01>《Attraction》
+Every single one of them is my prey!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,118,
+0,,<COL B6FF01>《集視》死にたいやつからかかって来な</COL>,"<COL B6FF01>《Attraction》
+Any of you looking to die, come and get it!</COL>",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,119,
 0,,あぁ、下手うっちまいましたね。こりゃ,"
-Oh, I'm so bad at this. Oh, shit.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,10,
+Damn, I really botched it this time.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,10,
 0,,あぁ、大した怪我じゃありません,"
-Oh, it's nothing serious.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,32,
+Ah, it's just a scratch.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,32,
 0,,あいつの能力、下げてやりますかね！,"
-Shall I lower his abilities?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,99,
+I'll take that one down a notch!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,99,
 0,,あぶねぇな！,"
-That's not safe!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,42,
+That was close!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,42,
 0,,うおおっ！　力が漲ってきやがる,"
-Wow! I'm filled with power!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,12,
+Whoa! I can feel the power surging!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,12,
 0,,うちの覚者様がお世話になってるみてぇで,"
-It's like my mentor is taking care of me.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,136,
+Looks like my Arisen's been
+well taken care of by you.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,136,
 0,,おい、冗談――だ――ろ――,"
-Hey, it's just a joke, you know",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,24,
+Hey, you've gotta be kidding me.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,24,
 0,,おい！！　嘘だろっ、覚者様！,"
-Hey! No way, Ser Arisen!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,37,
+Hey!! You've gotta be kidding me, Arisen!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,37,
 0,,おう、うらぁッ！！,"
-Oh, ugh!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,43,
+Yeah! Eat this!!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,43,
 0,,おう、了解！,"
-Oh, got it!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,48,
+Copy that!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,48,
 0,,おう、回復だ！,"
-Oh, recovery!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,39,
+Yeah, here's some healing!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,39,
 0,,おう！　覚者様、よろしくお願いします,"
-Oh! Thank you very much, Arisen!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,0,
+Yeah! Arisen, I'm counting on you!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,0,
 0,,おっ、この感じ。あの方が来ましたか,"
-Oh, this feeling. Has that person arrived?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,6,
+Oh? I recognize this vibe.
+So, they've arrived.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,6,
 0,,おっ、なんですか？,"
-Whoa, what is it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,69,
+Oh, what's this?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,69,
 0,,おっ、荷物の整理ですか？,"
-Oh, are you organizing your luggage?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,50,
+Oh, sorting through your gear?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,50,
 0,,おっ、覚者様！　お帰りですか！,"
-Oh, Master! You are back!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,79,
+Oh, Arisen! You're back!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,79,
 0,,おっ、覚者様！　庭に何かいますぜ！,"
-Look! There's something in the garden!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,61,
+Oh, Arisen!
+There's something out in the yard!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,61,
 0,,おっと、へへ――静かにしとくか――,"
-Oops, heh--I'll be quiet--I'll be quiet.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,54,
+Whoops... hehe—guess I'll keep it quiet.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,54,
 0,,おっと、覚者様！　待っててください,"
-Oh, Arisen! Please wait.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,88,
+Whoa, Arisen! Hold on a sec!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,88,
 0,,おっと！,"
-Oops!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,141,
+Whoops!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,141,
 0,,おらよ、これで弱点が丸見えだ！,"
-I see, now all weaknesses are exposed!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,96,
+There you go,
+now its weak point is wide open!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,96,
 0,,お任せを,"
 Leave it to me.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,138,
 0,,お怪我ぁありませんでしたか？,"
-Were you injured?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,28,
+Are you alright?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,28,
 0,,お！？　悪くねぇ手ごたえだ,"
-Oh? That's not bad.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,11,
+Oh!? That felt pretty good!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,11,
 0,,きっちりお守りしますんで、ご安心を,"
-We will take good care of you, don't worry.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,5,
+I'll protect you properly,
+so don't you worry.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,5,
 0,,こいつぁ氷に弱えぇ！,"
-This guy is weak against ice!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,144,
+This one's weak to ice!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,144,
 0,,こいつぁ炎に弱えぇ！,"
-This guy is weak against fire!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,143,
+This one's weak to fire!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,143,
 0,,こいつぁ聖に弱えぇ！,"
-This one is weak to holy attacks!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,146,
+This one's weak to holy!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,146,
 0,,こいつぁ闇に弱えぇ！,"
-This one is weak against darkness!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,147,
+This one's weak to darkness!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,147,
 0,,こいつぁ雷に弱えぇ！,"
-This guy is weak against lightning!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,145,
+This one's weak to lightning!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,145,
 0,,こいつで治せる！,"
-This guy can fix it!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,140,
+This should patch you up!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,140,
 0,,こいつはなんだ？　貰っておくか,"
-What is this? Should I take it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,134,
+What's this? Guess I'll take it.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,134,
 0,,"こいつは珍しいヤツだ、
 ありがたくぶちのめしましょうや","
-This guy is a rarity. Thankfully, we can beat them
-up.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,132,
+Well now, that's a rare one. Let's beat
+the living daylights out of it, shall we?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,132,
 0,,ここにゃ敵は入ってこれません、休憩していきますか？,"
-The enemy can't get in here. Shall we take a
-break?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,84,
+Enemies can't get in here.
+Want to take a break?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,84,
 0,,こっちだ、打ち上げる！,"
-This way, I'll launch!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,46,
+This way—I'm launching!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,46,
 0,,こっちの準備ぁできてます。行きますか,"
-I'm ready. Shall we go?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,4,
+I'm all set. Ready to head out?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,4,
 0,,このスキル、はやく戦場で活かしたいもんです,"
-I can't wait to put these skills to use on the
-battlefield!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,65,
+I'm itching to try this skill out
+in a real fight!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,65,
 0,,この技で支援しますぜ！　反撃しましょうや！,"
-I'll support you with this technique! Let's
-counterattack!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,98,
+I'll support you with this technique!
+Let's strike back!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,98,
 0,,この技を使うときが来るとはな！　覚悟しろよ！,"
-I never thought I'd see the time to use this
-technique! Brace yourself!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,102,
+To think the day would come
+to use this technique! Prepare yourself!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,102,
 0,,この辺、ジョブ修練敵がいやがりそうですぜ,"
-That job training target is fond of this area.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,125,
+I've got a feeling there's some prime targets
+for job training 'round here!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,125,
 0,,この辺り、何かあるんじゃないですかね,"
-I wonder if there's something around here.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,131,
+Think there might be something around here?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,131,
 0,,この間、他所でクラフトの手伝いをしたら喜ばれましたよ！,"
-I helped with crafts elsewhere the other day and
-it was appreciated!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,72,
+I helped out with some crafting elsewhere
+the other day, and they were really pleased!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,72,
 0,,これで大暴れしてみせますぜ,"
-I'm going to go on a rampage with this.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,63,
+I'll show you how much havoc
+I can wreak with this!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,63,
 0,,これ以上の無理ぁ、保障できませんよ,"
-I cannot guarantee any more than this, it's
-impossible",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,36,
+I can't guarantee anything
+if we push any further than this.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,36,
 0,,さぁてっと、今日はどこに行きますかね？,"
-Let's see, where are we going today?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,68,
+Well then, where are we heading today?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,68,
 0,,さぁてと、どっから行きましょう？,"
-So, where shall we go from here?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,14,
+Alright then, where do we start?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,14,
 0,,さすがにこりゃ、きついな――,"
-This is a tough one...",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,35,
+This one's really pushing it, huh...",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,35,
 0,,さっ、これで！,"
-Here we go!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,89,
+Right! Time for this!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,89,
 0,,さーて、何が出てくるかねぇ,"
-Well, let's see what we can come up with.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,148,
+Right then, wonder what's gonna pop out?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,148,
 0,,さーて、次に備えてキッチリ準備しねぇと,"
-Well, I'd better get ready for the next one.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,86,
+Right, better get everything
+ship-shape for what's next.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,86,
 0,,すまねぇ！,"
-I'm sorry!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,21,
+My bad!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,21,
 0,,"せっかくですから
 ゆっくりしていってくださいよ！","
-Since you're here, please take your time!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,137,
+Might as well take your time
+and stay a while!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,137,
 0,,そいつぁムリだ,"
 That's impossible.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,49,
 0,,そう言や、別の覚者様に褒められましたよ、俺のこの装備！,"
-By the way, I was praised by another Arisen for
-this equipment of mine!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,74,
+Come to think of it, another Arisen actually
+complimented me on this gear of mine!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,74,
 0,,そら、こいつでどうだ！,"
-There you go. How about this one!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,45,
+There! How's that for ya!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,45,
 0,,そろそろ、戦術育成の方もどうですかね？,"
-How about some tactical training soon?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,135,
+How about we focus on some
+tactical training for a bit?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,135,
 0,,"そろそろ出掛けますか？
 俺がキッチリお支えしますぜ","
-You ready to get out of here? I'll take good care
-of you.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,152,
+Time to head out, then?
+I'll make sure to watch your back properly!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,152,
 0,,そろそろ出発ですかね？　いつでも呼んでくださいよ,"
-Are we about to leave? You can call me anytime.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,51,
+Thinking of heading out?
+Just say the word, and I'm there.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,51,
 0,,ちったぁ休んだ方が良いですぜ,"
-It's better to take a little rest, ya know",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,52,
+You ought to take a break,
+at least for a little while.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,52,
 0,,"ちょいとお待ちを――
 ここら辺、何かありますぜ？","
-Just a moment please... Is there something around
-here?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,130,
+Hold on a sec—there's something around here,
+I'm sure of it.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,130,
 0,,つっ――気ぃ引き締めます――,"
-I'm going to brace myself.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,34,
+Tch—time to tighten my focus.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,34,
 0,,どうしたんです？　覚者様,"
-Master Arisen, What's wrong?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,70,
+What's the matter, Arisen?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,70,
 0,,どうも。遠慮しねぇで何でも言ってくださいよ,"
-Hi. Don't hesitate to tell me anything.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,1,
+Hey there. Don't hold back—
+speak your mind, whatever it is.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,1,
 0,,"どうも近くに貴重な財宝が
 眠ってる気がするんですがね","
-I have a feeling that there is a valuable
-treasure nearby.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,128,
+Funny thing—I've got this feeling there's
+some valuable treasure buried around here.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,128,
 0,,どこ見てやがる、相手は俺だ！！,"
-Where are you looking, I'm your opponent!!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,40,
+Eyes on me! I'm the one you're fighting!!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,40,
 0,,どんな戦場でも喜んで,"
-I'm willing to go to any battlefield.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,3,
+Bring on any battlefield—
+I'm ready and waiting!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,3,
 0,,"なぁに、ちょっとくらいゆっくりしたところで
 敵は逃げませんよ","
-Hey, even if you slow down a little bit... The
-enemy won't run away.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,53,
+Eh, take it easy—
+the enemies aren't going anywhere.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,53,
 0,,"なぁ覚者様、俺を見込んで
 ひとつ頼まれてくださいませんかね――
-なに、悪い話じゃあありません　","
-Hey, Master, in recognition of me, I wonder if
-you could do me a favor... No, it's not a bad
-idea.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,150,
+なに、悪い話じゃあありません","
+Say, Arisen… would you be willing to trust me
+and do me a small favor? Don't worry—
+it's not a bad deal, I promise.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,150,
 0,,なっ――何ぃっ！？,"
-What- What's happening!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,25,
+Wha—?! What the—?!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,25,
 0,,ふぅ、無事帰ってこられましたね！,"
-Phew, you made it back safely!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,82,
+Whew! We made it back in one piece,
+didn't we!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,82,
 0,,ふん、怒ってやがる！　気を付けねぇとな！,"
-They're angry! I gotta be careful!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,91,
+Hmph, it's pissed off!
+Better watch ourselves!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,91,
 0,,ふーむ、ん？　ん～――,"
-Hmmm--I see what you mean.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,60,
+Hmm... Hah? Mmm...",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,60,
 0,,へぇ、なかなか見かけない敵だな,"
-Wow, that's an enemy you don't see very often.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,133,
+Heh, don't see enemies like this every day, do we.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,133,
 0,,へぇ、模様替えってのもいいもんですね,"
-Wow, it's nice to redecorate, isn't it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,57,
+Heh, a change of pace is always good,
+isn't it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,57,
 0,,へっ、やりますか！,"
-Well, shall I do it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,27,
+Heh, let's do this!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,27,
 0,,へっ、隙ありってな！,"
-Mm, there's an opening!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,93,
+Heh, found an opening!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,93,
 0,,へっ！　次の戦闘、期待して下さいよ,"
-Heh! Next battle, you can look forward to!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,13,
+Heh! Just you wait for the next fight—
+you're gonna love this!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,13,
 0,,ほぉー、こりゃ面白い戦い方ができそうじゃないですか,"
-Wow, this should make for some interesting
-battles.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,66,
+Hoh! Now this looks like it'll make for an
+entertaining scrap, don't you think?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,66,
 0,,"ほーう、雇われポーンの特技――
 コツはつかんだ！","
-Ah, I've learned the special skill of a hired
-pawn -!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,124,
+Hoh... so that's the trick
+to a hired Pawn's special skill.
+Heh, I've got the hang of it now!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,124,
 0,,ま、何かあったらその時考えましょう,"
-Well, if something happens, we'll think about it
-then.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,15,
+Well, if anything happens,
+we'll just deal with it when the time comes.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,15,
 0,,まっ、運動がわりにゃなりましたね,"
-Well, I guess I got my exercise instead.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,29,
+Well, at least it was good for the exercise,
+I guess.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,29,
 0,,やっぱ家ってのはいいもんですねぇ、力が抜けるや,"
-It's nice to be at home, isn't it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,83,
+Man, there really is nothing like home,
+is there? I can finally feel the tension
+leaving my bones.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,83,
 0,,よし　これくらいか――,"
-Alright, this should be enough--",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,62,
+Alright... that should do it, I reckon.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,62,
 0,,よし、捕まえたぜ！！,"
-Okay, I got you!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,31,
+Gotcha! Caught you red-handed!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,31,
 0,,よし、援護する！,"
-Okay, I'll cover for you!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,41,
+Right, I'm covering you!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,41,
 0,,ん？　修練が終わったんじゃねぇですかい,"
-Hmm? Have you finished your training?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,127,
+Hm? Did we just finish our training?
+About time, ain't it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,127,
 0,,エモノですぜ,"
-It's the target",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,16,
+Target spotted!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,16,
 0,,クッ！　離しやがれ、この！,"
-Kuh! Get off me, you son of a bitch!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,23,
+Gah! Let go, you—! Get your hands off me!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,23,
 0,,ダウンしたぜ！　全力で行ってやりましょうや！,"
-It's down! Let's go all out and do it!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,94,
+Downed 'em!
+Let's give it everything we've got!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,94,
 0,,チッ！　厄介そうなヤツですね,"
-Tsk! They looks like trouble.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,20,
+Tch! This one looks like trouble.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,20,
 0,,ハッ！　何とかうまくいきましたね,"
 Ha! Somehow, it went well, didn't it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,7,
 0,,ボードクエストやら依頼やら、ぬかり無く見ときましょう,"
@@ -730,67 +744,49 @@ I'm gonna make you pay for this...",ui\00_message\pw\pwtlk07.gmd,\game_common.ar
 0,,<COL B6FF01>《剛化》いつもより強めに行くわね！</COL>,"
 <COL B6FF01>《Harden》
 I'm going to be a bit more aggressive than usual!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,107,
-0,,<COL B6FF01>《剛化》この攻撃、その身に刻んであげる！</COL>,"
-<COL B6FF01>《Harden》
-I will carve this attack into your very being!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,106,
-0,,<COL B6FF01>《守護》これで、痛くなんてないわよ</COL>,"
-<COL B6FF01>《Protection》
+0,,<COL B6FF01>《剛化》この攻撃、その身に刻んであげる！</COL>,"<COL B6FF01>《Harden》
+I will carve this attack
+into your very being!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,106,
+0,,<COL B6FF01>《守護》これで、痛くなんてないわよ</COL>,"<COL B6FF01>《Protection》
 With this, you won't feel a thing.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,121,
-0,,<COL B6FF01>《守護》守りを高めるわ、みんな攻めてちょうだい</COL>,"
-<COL B6FF01>《Protection》
-I'm raising our defenses;
-everyone, please go on the offensive.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,120,
-0,,<COL B6FF01>《柔化》この敵には、どんな状態がお似合いかしら？</COL>,"
-<COL B6FF01>《Weaken》
+0,,<COL B6FF01>《守護》守りを高めるわ、みんな攻めてちょうだい</COL>,"<COL B6FF01>《Protection》
+I will increase our defense,
+everyone go on the offensive.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,120,
+0,,<COL B6FF01>《柔化》この敵には、どんな状態がお似合いかしら？</COL>,"<COL B6FF01>《Weaken》
 What state would suit this enemy, I wonder?</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,112,
-0,,<COL B6FF01>《柔化》ふふ、誰から弱らせてあげようかしら</COL>,"
-<COL B6FF01>《Weaken》
+0,,<COL B6FF01>《柔化》ふふ、誰から弱らせてあげようかしら</COL>,"<COL B6FF01>《Weaken》
 Ufufu, who shall I weaken first?</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,113,
-0,,<COL B6FF01>《無恐》もう誰も、あたしを止められはしない！</COL>,"
-<COL B6FF01>《Fearless》
+0,,<COL B6FF01>《無恐》もう誰も、あたしを止められはしない！</COL>,"<COL B6FF01>《Fearless》
 No one can stop me now!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,116,
-0,,<COL B6FF01>《無恐》避ける必要、なくなっちゃいそうね</COL>,"
-<COL B6FF01>《Fearless》
+0,,<COL B6FF01>《無恐》避ける必要、なくなっちゃいそうね</COL>,"<COL B6FF01>《Fearless》
 It seems I won't even need to dodge anymore.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,117,
-0,,<COL B6FF01>《特技》あたしの全力、見せてあげる</COL>,"
-<COL B6FF01>《Special Skill》
+0,,<COL B6FF01>《特技》あたしの全力、見せてあげる</COL>,"<COL B6FF01>《Special Skill》
 I will show you my full power.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,104,
-0,,<COL B6FF01>《特技》ふふ、刺激が足りないようね――</COL>,"
-<COL B6FF01>《Special Skill》
+0,,<COL B6FF01>《特技》ふふ、刺激が足りないようね――</COL>,"<COL B6FF01>《Special Skill》
 Ufufu, it seems you aren't getting
 quite enough stimulation—</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,105,
-0,,<COL B6FF01>《特技》限界を超えた力、お見せしますわ！</COL>,"
-<COL B6FF01>《Special Skill》
+0,,<COL B6FF01>《特技》限界を超えた力、お見せしますわ！</COL>,"<COL B6FF01>《Special Skill》
 I will show you power that transcends limits!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,103,
-0,,<COL B6FF01>《癒活》みんなの消耗、あたしが引き受けるわ！</COL>,"
-<COL B6FF01>《Restoration》
+0,,<COL B6FF01>《癒活》みんなの消耗、あたしが引き受けるわ！</COL>,"<COL B6FF01>《Restoration》
 I will take on everyone's fatigue!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,111,
-0,,<COL B6FF01>《癒活》癒しの加護よ――あたしに力を！</COL>,"
-<COL B6FF01>《Restoration》
+0,,<COL B6FF01>《癒活》癒しの加護よ――あたしに力を！</COL>,"<COL B6FF01>《Restoration》
 Healing protection—give me strength!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,110,
-0,,<COL B6FF01>《蘇生》今倒れるなんて、あたしが許さないわ！</COL>,"
-<COL B6FF01>《Resurrection》
+0,,<COL B6FF01>《蘇生》今倒れるなんて、あたしが許さないわ！</COL>,"<COL B6FF01>《Resurrection》
 I won't allow you to collapse now!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,122,
-0,,<COL B6FF01>《重化》倒れる姿が、あなたにはお似合いよ！</COL>,"
-<COL B6FF01>《Heavy》
+0,,<COL B6FF01>《重化》倒れる姿が、あなたにはお似合いよ！</COL>,"<COL B6FF01>《Heavy》
 Falling down suits you perfectly!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,108,
-0,,<COL B6FF01>《重化》足腰立たなくしてあげる</COL>,"
-<COL B6FF01>《Heavy》
+0,,<COL B6FF01>《重化》足腰立たなくしてあげる</COL>,"<COL B6FF01>《Heavy》
 I'll make it so you can't even stand
 on your own two feet.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,109,
-0,,<COL B6FF01>《集中》この魔力の高まり――すぐに見せてあげる！</COL>,"
-<COL B6FF01>《Concentration》
+0,,<COL B6FF01>《集中》この魔力の高まり――すぐに見せてあげる！</COL>,"<COL B6FF01>《Concentration》
 This surge of magical power—
 I'll show you right now!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,114,
-0,,<COL B6FF01>《集中》ふふ、今ならすらすら詠唱できそう</COL>,"
-<COL B6FF01>《Concentration》
+0,,<COL B6FF01>《集中》ふふ、今ならすらすら詠唱できそう</COL>,"<COL B6FF01>《Concentration》
 Ufufu, I feel like I could chant
 this effortlessly right now.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,115,
-0,,<COL B6FF01>《集視》前に出るわ！　見ていてね、マスター！</COL>,"
-<COL B6FF01>《Attraction》
+0,,<COL B6FF01>《集視》前に出るわ！　見ていてね、マスター！</COL>,"<COL B6FF01>《Attraction》
 I'm taking the lead! Watch me, Master!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,118,
-0,,<COL B6FF01>《集視》少しだけ、目立たせてもらうわね</COL>,"
-<COL B6FF01>《Attraction》
+0,,<COL B6FF01>《集視》少しだけ、目立たせてもらうわね</COL>,"<COL B6FF01>《Attraction》
 I'll just stand out a little bit, all right?</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,119,
 0,,あぁ――こんなはずじゃ――,"
 Ah—it wasn't supposed to be like this—",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,24,
@@ -805,7 +801,8 @@ Hey—will you grant me a ""favor""?",ui\00_message\pw\pwtlk08.gmd,\game_common.
 0,,あたしがついてるわ！,"
 I am with you!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,90,
 0,,あたしで良ければ、何でも言いつけて,"
-If I am enough for you, tell me anything you need.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,2,
+If I am enough for you,
+tell me anything you need.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,2,
 0,,あたしに乗って！　早く！！,"
 Get on me! Quickly!!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,46,
 0,,あたしのこともよろしくお願いしますね,"
@@ -821,7 +818,8 @@ Ara... it's an enemy.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common
 Ara, what an unusual enemy!
 This might be a chance for us.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,132,
 0,,あら。マスター、あの方が来たみたい,"
-Ara. Master, it seems that someone has arrived.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,6,
+Ara.
+Master, it seems that someone has arrived.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,6,
 0,,いくわよっ！,"
 Here I go!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,38,
 0,,いつまでも、お傍に置いて下さいね,"
@@ -866,16 +864,17 @@ I'm looking forward to testing this skill,
 aren't you?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,65,
 0,,"この前、別の覚者さまのクラフトのお手伝いをしたの
 我ながらいいものが作れましたよ","
-I helped another Arisen with their crafting
-the other day. I must say, I did quite a fine job.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,72,
+I helped another Arisen
+with their crafting the other day.
+I must say, I did quite a fine job.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,72,
 0,,この程度、何でもないわ,"
 This much is nothing to me.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,32,
 0,,この結果、あなたの実力よ,"
 This result...
 it's all thanks to your true strength.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,9,
 0,,この装備に見合う働きをしなきゃね,"
-I must work hard to be worthy of this equipment,
-shouldn't I?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,64,
+I must work hard
+to be worthy of this equipment, shouldn't I?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,64,
 0,,"この辺りを少し探索してみません？　
 マスター","
 Shall we explore around here a bit, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,131,
@@ -886,7 +885,8 @@ Now, let's begin.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc
 0,,さぁ、お願い！　抑えてる間に！,"
 Now, please! While I'm holding them back!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,31,
 0,,さぁ、特別な技をプレゼントするわね,"
-Now, I'll present you with a special technique.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,102,
+Now,
+I'll present you with a special technique.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,102,
 0,,さぁ、行きましょうかマスター,"
 Now, shall we go, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,15,
 0,,さすがは、あたしのマスター,"
@@ -906,7 +906,8 @@ You there! Look at me!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_commo
 0,,ちっ、油断したわ――！,"
 Tch, I let my guard down—!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,23,
 0,,ちょっと休んでいってもいいんじゃないかしら、マスター,"
-Maybe we could rest for a little while, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,52,
+Maybe we could rest for a little while,
+Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,52,
 0,,ちょっと辛くなってきたわ――,"
 Things are getting a bit tough for me—",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,34,
 0,,ちょっと！ 今行くわ！,"
@@ -914,11 +915,11 @@ Hey! I'm coming now!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.
 0,,どうかしました？　マスター,"
 Is something the matter, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,69,
 0,,ね、ここでゆっくり過ごすのも素敵よ,"
-You know, spending some time relaxing right here
-would be lovely.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,53,
+You know, spending some time relaxing
+right here would be lovely.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,53,
 0,,ねぇ、この辺り、ジョブ修練敵がいるみたい,"
-Hey, it looks like there are job training enemies
-around here.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,125,
+Hey, it looks like there are
+job training enemies around here.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,125,
 0,,ねぇちょっと！？　　だめよ、マスター！,"
 Hey, wait a minute!? No, Master!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,37,
 0,,"ねぇ？　そろそろどうかしら――
@@ -958,7 +959,8 @@ I won't let you!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,
 0,,ん、ありがとう！,"
 Hmm, thank you!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,21,
 0,,ん、我ながら良い香りだわ――,"
-Hmm, it smells good, even if I do say so myself.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,62,
+Hmm, it smells good,
+even if I do say so myself.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,62,
 0,,ん？ 今日はどこに行きます？,"
 Hmm? Where are we going today?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,68,
 0,,サポートはお任せを。ふふっ,"
@@ -971,153 +973,163 @@ They're down! Let's finish this at once!",ui\00_message\pw\pwtlk08.gmd,\game_com
 Fufu—an unexpected encounter.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,133,
 0,,"マスター、
 この辺りに珍しい宝物がありそうよ","
-Master,
-there may be some rare treasures around here.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,129,
+Master, I have a feeling
+there might be a rare treasure around here.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,129,
 0,,"マスター、あなたにお仕えしてきたおかげで
 あたしの意思疎通力が上がったわ！","
-Master, serving you has improved
-my communication skills!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,76,
+Master, thanks to serving you,
+my ability to communicate has improved!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,76,
 0,,マスター、あれを相手にするの？,"
-Master, are you going to deal with that?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,19,
+Master,
+are we really going to take that thing on?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,19,
 0,,"マスター、この新しい力で
 いままで以上にあなたに尽くすつもりよ
 期待しててね","
-Master, with this new power
-I will serve you even better than before.
-You can count on it!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,151,
+Master,
+I intend to serve you more than ever before
+with this new power. Look forward to it.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,151,
 0,,マスター、ご無事で良かったわ,"
-Master, I'm so glad you're okay.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,80,
+Master, I'm just glad you're safe.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,80,
 0,,マスター、エリア探索から戻りました,"
-Master, I'm back from exploring the area.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,58,
+Master,
+I've returned from exploring the area.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,58,
 0,,マスター、今日はあたしから髪型の提案をしたいの！,"
-Master, today I would like to make a hairstyle
-suggestion!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,77,
+Master, I'd like to make a suggestion
+regarding my hairstyle today!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,77,
 0,,マスター、今日は私から戦技の提案があるの,"
-Master, 
-I have a proposal for combat techniques today.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,75,
+Master, I have a proposal
+for a battle technique for today!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,75,
 0,,マスター、道具とか依頼の確認はいいの？,"
-Master, can we check on the tools and requests?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,86,
+Master, are you sure you don't need to check
+your items or requests?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,86,
 0,,マスターに刃を向ける者は、あたしが許さない,"
-I will not allow anyone to turn on the Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,30,
+I won't forgive anyone
+who raises their blade against you, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,30,
 0,,マスターのこと、よろしくお願いしますね,"
-I look forward to working with you, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,5,
+I entrust myself to you, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,5,
 0,,今までとは一味違う働きをお見せするわ、マスター,"
-I'll show you a different kind of performance 
-from before, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,66,
+I shall demonstrate a prowess unlike any
+you have witnessed thus far, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,66,
 0,,今回のエリア探索、とても良い成果を上げられたのよ！,"
-We've had very good results exploring the area
-this time!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,59,
+Our scouting of this area
+has yielded exceptional results!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,59,
 0,,仰せのままに,"
-At your command",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,48,
+As you command.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,48,
 0,,任せてちょうだい,"
-I'll take care of it.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,139,
+Leave it to me!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,139,
 0,,何かあるんじゃないかしら、この辺り,"
-I think there's something around here.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,130,
+I suspect there is something
+to be found here.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,130,
 0,,何かいるわ、近くに,"
-There's something here. It's close.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,18,
+Something is nearby.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,18,
 0,,何があっても、マスターの側にいるわ,"
-No matter what happens, I'll stay by your side,
-Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,149,
+Whatever may come,
+I shall remain by Master's side.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,149,
 0,,何だかお部屋の雰囲気が変わったみたい！,"
-It's like the atmosphere of the room has changed
-somehow!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,56,
+The atmosphere in this room
+seems to have changed!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,56,
 0,,何とか――耐えなくちゃ――！,"
-Somehow - I have to endure - I have to endure!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,36,
+I must—I have to endure this—!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,36,
 0,,修練達成ね！　おめでとう、マスター！,"
-You've accomplished the ordeal! Congratulations,
-Master!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,127,
+Training complete! Congratulations, Master!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,127,
 0,,"先日、別の覚者さまの冒険をサポートしてきたの
 どう？　頑張ってきたのよ","
-I recently assisted another Arisen lady 
-with their adventure.
-What do you think? I've been working hard!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,73,
+I recently supported
+the adventure of another Arisen.
+How was that? I worked hard, you know.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,73,
 0,,"冒険に行くなら誘ってね
 どこまでもお助けするわ、マスター","
-Invite me if you're going on an adventure.
-I'll help you everywhere, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,152,
+If you are going on an adventure,
+please invite me.
+I will assist you wherever you go, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,152,
 0,,"別の覚者さまが、あたしを見て
 センスが素敵だって褒めてらしたわ！","
-Another Arisen looked at me and 
-complimented me on my sense of style!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,74,
+Another Arisen saw me
+and complimented my sense of style!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,74,
 0,,力を溜めたこの攻撃、甘く見ないでね――,"
-Don't underestimate this attack 
-that I've built up power for--",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,101,
+Don't underestimate this charged attack—!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,101,
 0,,反撃に出ましょう、この戦技で支援するわ！,"
-Let's counterattack, 
-I'll support you with this technique!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,98,
+Let's counterattack, I will provide support
+with this battle skill!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,98,
 0,,大丈夫、すぐに癒すわ,"
-Don't worry, I'll heal you in no time.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,39,
+It's alright, I will heal you immediately.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,39,
 0,,大丈夫よ、マスター,"
-It's okay, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,89,
+It is alright, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,89,
 0,,属性を付与するわ！　攻撃に出ましょう！,"
-I'll improve your attributes! Let's go on the
-offensive!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,100,
+I will imbue you with an element!
+Let's go on the offensive!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,100,
 0,,弱点は――、そこよ！,"
-There is a weakness... right there!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,96,
+The weak point is—right there!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,96,
 0,,弱点は氷ね――,"
-His weakness is ice.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,144,
+Their weakness is ice.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,144,
 0,,弱点は炎ね――,"
-His weakness is fire.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,143,
+Their weakness is fire.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,143,
 0,,弱点は聖ね――,"
-The weak point is holy--",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,146,
+Their weakness is holy.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,146,
 0,,弱点は闇ね――,"
-His weakness is darkness.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,147,
+Their weakness is darkness.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,147,
 0,,弱点は雷ね――,"
-His weakness is lightning.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,145,
+Their weakness is lightning.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,145,
 0,,弱点を叩けば 立っていられないはず！,"
-If you hit the weak spots, they wouldn't be able
-to stand!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,97,
+If we strike their weak point,
+they shouldn't be able to stay standing!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,97,
 0,,忘れ物はありません？　道具に、装備に――,"
-Have you forgotten anything? Tools, equipment...",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,14,
+Did you forget anything?
+Tools, equipment, and—",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,14,
 0,,戦って大丈夫？　かなり手ごわそうよ,"
-Are you sure you're up for this? 
-They look pretty tough.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,20,
+Are you sure you're ready to fight?
+They look quite formidable.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,20,
 0,,掘り出し物、見つかるといいわね,"
-Good luck finding a bargain.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,148,
+I hope you find a great find,
+or perhaps a hidden treasure.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,148,
 0,,揺さぶりに行くわね！,"
-I'm going to go shake things up!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,95,
+I'll go in to shake them!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,95,
 0,,敵が興奮してるみたい！　気を付けて！,"
-Be careful, it seems like the enemy is getting
-excited!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,92,
+The enemy seems to be getting agitated!
+Be careful!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,92,
 0,,敵の能力、下げてみせる！,"
-Lowering the enemy's ability!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,99,
+I'll lower the enemy's capabilities!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,99,
 0,,"新しい家財を手に入れたのね
 素敵なお部屋になりそう――","
-You've got new household goods.
-It's going to be a lovely room--",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,78,
+You've acquired new furnishings, haven't you?
+It looks like it will become a lovely room—",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,78,
 0,,新しい装備、似合ってるかしら？,"
-Do I look good in my new gear?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,63,
+I wonder, does this new equipment suit me?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,63,
 0,,旅は長いわ、一休みしていきましょう,"
-The journey is long. Let's take a break.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,84,
+The journey is long, let's take a break.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,84,
 0,,次の冒険のためにも、しっかり休んでくださいね,"
-Rest well for your next adventure!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,55,
+Please rest well,
+for the sake of our next adventure.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,55,
 0,,気に入って頂けるよう努力するわ,"
-I'll try to make sure you like it.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,4,
+I will strive to make sure
+it meets your approval.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,4,
 0,,気をつけて。敵の気配が,"
-Watch out. There's a sign of the enemy.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,17,
+Be careful. I sense an enemy's presence.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,17,
 0,,気合入れていきましょ！,"
-Let's get into it!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,27,
+Let's give it our all!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,27,
 0,,疲れてるわね、チャンスよ！,"
-Look, it's tired, here's your chance!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,93,
+They look tired—this is our chance!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,93,
 0,,素敵な方。お目にかかれて光栄よ,"
-What a lovely person. It's an honor to meet you.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,0,
+What a wonderful person.
+It's an honor to meet you.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,0,
 0,,良い旅になるように精一杯尽くすわ,"
-I'll do my best to make it a good trip.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,1,
+I will do my very best
+to ensure we have a good journey.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,1,
 0,,落ち着いて、もう大丈夫よ,"
-Calm down, everything's fine now",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,140,
+Calm down, it is alright now.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,140,
 0,,見て！　庭に何か来てるわ！,"
-Oh, Master Arisen!　There's something in the garden!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,61,
+Look! Something is in the garden.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,61,
 0,,解ったわ！,"
 Understood!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,47,
 0,,貴重な宝がある気がするわ、探してみない？,"
-I have a feeling there's some 
-precious treasure in there, 
-why don't we look for it?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,128,
+I have a feeling there is a valuable treasure
+here, shall we search for it?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,128,
 0,,道具を確認するってことは、そろそろ出発かしら？,"
-If we're checking our gear, does that mean we're
-about to leave?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,51,
+Checking our gear,
+does that mean we are departing soon?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,51,
 0,,部屋に戻ると何だか力が抜けちゃうわね,"
-It's kind of relaxing to be back in your room.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,83,
+Somehow I feel all my strength leave me
+when I return to the room.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,83,
 0,,"いいか――
 覚者の初陣には白竜の特別な加護がある","Listen carefully.
 The Arisen are blessed by the White Dragon
