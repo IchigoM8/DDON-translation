@@ -729,23 +729,20 @@ Take it!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,44,
 I'm gonna make you pay for this...",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,38,
 0,,<COL B6FF01>《剛化》いつもより強めに行くわね！</COL>,"
 <COL B6FF01>《Harden》
-I'm going to be a bit more
-aggressive than usual!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,107,
+I'm going to be a bit more aggressive than usual!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,107,
 0,,<COL B6FF01>《剛化》この攻撃、その身に刻んであげる！</COL>,"
 <COL B6FF01>《Harden》
-I will carve this attack
-into your very being!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,106,
+I will carve this attack into your very being!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,106,
 0,,<COL B6FF01>《守護》これで、痛くなんてないわよ</COL>,"
 <COL B6FF01>《Protection》
 With this, you won't feel a thing.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,121,
 0,,<COL B6FF01>《守護》守りを高めるわ、みんな攻めてちょうだい</COL>,"
 <COL B6FF01>《Protection》
-I'm raising our defenses; everyone,
-please go on the offensive.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,120,
+I'm raising our defenses;
+everyone, please go on the offensive.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,120,
 0,,<COL B6FF01>《柔化》この敵には、どんな状態がお似合いかしら？</COL>,"
 <COL B6FF01>《Weaken》
-What state would suit this enemy,
-I wonder?</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,112,
+What state would suit this enemy, I wonder?</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,112,
 0,,<COL B6FF01>《柔化》ふふ、誰から弱らせてあげようかしら</COL>,"
 <COL B6FF01>《Weaken》
 Ufufu, who shall I weaken first?</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,113,
@@ -754,8 +751,7 @@ Ufufu, who shall I weaken first?</COL>",ui\00_message\pw\pwtlk08.gmd,\game_commo
 No one can stop me now!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,116,
 0,,<COL B6FF01>《無恐》避ける必要、なくなっちゃいそうね</COL>,"
 <COL B6FF01>《Fearless》
-It seems I won't even need to
-dodge anymore.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,117,
+It seems I won't even need to dodge anymore.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,117,
 0,,<COL B6FF01>《特技》あたしの全力、見せてあげる</COL>,"
 <COL B6FF01>《Special Skill》
 I will show you my full power.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,104,
@@ -765,8 +761,7 @@ Ufufu, it seems you aren't getting
 quite enough stimulation—</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,105,
 0,,<COL B6FF01>《特技》限界を超えた力、お見せしますわ！</COL>,"
 <COL B6FF01>《Special Skill》
-I will show you power
-that transcends limits!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,103,
+I will show you power that transcends limits!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,103,
 0,,<COL B6FF01>《癒活》みんなの消耗、あたしが引き受けるわ！</COL>,"
 <COL B6FF01>《Restoration》
 I will take on everyone's fatigue!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,111,
@@ -793,15 +788,12 @@ Ufufu, I feel like I could chant
 this effortlessly right now.</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,115,
 0,,<COL B6FF01>《集視》前に出るわ！　見ていてね、マスター！</COL>,"
 <COL B6FF01>《Attraction》
-I'm taking the lead!
-Watch me, Master!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,118,
+I'm taking the lead! Watch me, Master!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,118,
 0,,<COL B6FF01>《集視》少しだけ、目立たせてもらうわね</COL>,"
 <COL B6FF01>《Attraction》
-I'll just stand out a little bit,
-all right?</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,119,
+I'll just stand out a little bit, all right?</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,119,
 0,,あぁ――こんなはずじゃ――,"
-Ah—
-it wasn't supposed to be like this—",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,24,
+Ah—it wasn't supposed to be like this—",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,24,
 0,,あぁっ、助けて！！,"
 Ah! Help me!!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,22,
 0,,ああ、マスター！　戻ってきてくれたのね！,"
@@ -813,8 +805,7 @@ Hey—will you grant me a ""favor""?",ui\00_message\pw\pwtlk08.gmd,\game_common.
 0,,あたしがついてるわ！,"
 I am with you!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,90,
 0,,あたしで良ければ、何でも言いつけて,"
-If I am enough for you,
-tell me anything you need.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,2,
+If I am enough for you, tell me anything you need.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,2,
 0,,あたしに乗って！　早く！！,"
 Get on me! Quickly!!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,46,
 0,,あたしのこともよろしくお願いしますね,"
@@ -822,8 +813,7 @@ Please, take good care of me, too.",ui\00_message\pw\pwtlk08.gmd,\game_common.ar
 0,,あら、なにかしらこれ,"
 Ara, what could this be?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,134,
 0,,あら、持ち物の整理ですか？,"
-Ara, are you tidying up
-your belongings?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,50,
+Ara, are you tidying up your belongings?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,50,
 0,,あら、敵よ,"
 Ara... it's an enemy.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,16,
 0,,"あら、珍しい敵じゃない！　
@@ -831,16 +821,13 @@ Ara... it's an enemy.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common
 Ara, what an unusual enemy!
 This might be a chance for us.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,132,
 0,,あら。マスター、あの方が来たみたい,"
-Ara. Master, it seems that
-someone has arrived.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,6,
+Ara. Master, it seems that someone has arrived.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,6,
 0,,いくわよっ！,"
 Here I go!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,38,
 0,,いつまでも、お傍に置いて下さいね,"
-Please, keep me by your side...
-forever.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,13,
+Please, keep me by your side... forever.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,13,
 0,,うっ！　今は、倒れるわけにはいかない――,"
-Ugh! I can't afford to collapse here
-—not now!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,35,
+Ugh! I can't afford to collapse here—not now!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,35,
 0,,"うふふ、あなたのお話、
 よく聞いてるんですよ","
 Ufufu... I'm listening quite closely
@@ -848,8 +835,8 @@ to everything you say, you know.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,
 0,,うふふ、ここに居るわ,"
 Ufufu... I'm right here.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,70,
 0,,うふふ！　いい成果でしたね,"
-Ufufu! That was quite a successful
-outcome, wasn't it?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,8,
+Ufufu! That was quite a successful outcome,
+wasn't it?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,8,
 0,,うーん――なるほどねぇ,"
 Hmm... I see, I see.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,60,
 0,,う！　ごめんなさい、マスター！,"
@@ -867,44 +854,39 @@ it makes me truly happy.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_com
 Well done today, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,82,
 0,,"お雇いになったポーンの特技
 あたしも覚えましたよ","
-The specialty of the pawn
-you hired... I've learned it too.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,124,
+The specialty of the pawn you hired...
+I've learned it too.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,124,
 0,,こういうこともあるわ。気を落とさないで,"
 Things like this happen, you know.
 Don't let it get you down.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,10,
 0,,ここでは気楽にいきましょ,"
-Let's just take it easy here,
-shall we?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,85,
+Let's just take it easy here, shall we?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,85,
 0,,このスキル、試すのが楽しみだわ,"
-I'm looking forward to
-testing this skill, aren't you?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,65,
+I'm looking forward to testing this skill,
+aren't you?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,65,
 0,,"この前、別の覚者さまのクラフトのお手伝いをしたの
 我ながらいいものが作れましたよ","
-I helped another Arisen with their
-crafting the other day. I must say,
-I did quite a fine job.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,72,
+I helped another Arisen with their crafting
+the other day. I must say, I did quite a fine job.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,72,
 0,,この程度、何でもないわ,"
 This much is nothing to me.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,32,
 0,,この結果、あなたの実力よ,"
-This result... it's all thanks to
-your true strength.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,9,
+This result...
+it's all thanks to your true strength.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,9,
 0,,この装備に見合う働きをしなきゃね,"
-I must work hard to be worthy
-of this equipment, shouldn't I?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,64,
+I must work hard to be worthy of this equipment,
+shouldn't I?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,64,
 0,,"この辺りを少し探索してみません？　
 マスター","
-Shall we explore around here a bit,
-Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,131,
+Shall we explore around here a bit, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,131,
 0,,これでどう？,"
 How is this?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,43,
 0,,さ、始めるわよ,"
 Now, let's begin.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,26,
 0,,さぁ、お願い！　抑えてる間に！,"
-Now, please!
-While I'm holding them back!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,31,
+Now, please! While I'm holding them back!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,31,
 0,,さぁ、特別な技をプレゼントするわね,"
-Now, I'll present you with
-a special technique.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,102,
+Now, I'll present you with a special technique.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,102,
 0,,さぁ、行きましょうかマスター,"
 Now, shall we go, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,15,
 0,,さすがは、あたしのマスター,"
@@ -915,8 +897,8 @@ your sense is impeccable.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_co
 0,,しつこいのよ！！,"
 You are so persistent!!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,45,
 0,,ずーっと、ここで暮らすのもいいと思わない？　マスター,"
-Don't you think it would be nice
-to live here forever, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,67,
+Don't you think it would be nice to live here
+forever, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,67,
 0,,そこに修練敵がいるわ！,"
 There's a training enemy over there!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,126,
 0,,そこのあなた！　あたしを見なさい！,"
@@ -924,21 +906,19 @@ You there! Look at me!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_commo
 0,,ちっ、油断したわ――！,"
 Tch, I let my guard down—!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,23,
 0,,ちょっと休んでいってもいいんじゃないかしら、マスター,"
-Maybe we could rest
-for a little while, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,52,
+Maybe we could rest for a little while, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,52,
 0,,ちょっと辛くなってきたわ――,"
-Things are getting
-a bit tough for me—",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,34,
+Things are getting a bit tough for me—",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,34,
 0,,ちょっと！ 今行くわ！,"
 Hey! I'm coming now!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,87,
 0,,どうかしました？　マスター,"
 Is something the matter, Master?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,69,
 0,,ね、ここでゆっくり過ごすのも素敵よ,"
-You know, spending some time
-relaxing right here would be lovely.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,53,
+You know, spending some time relaxing right here
+would be lovely.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,53,
 0,,ねぇ、この辺り、ジョブ修練敵がいるみたい,"
-Hey, it looks like there are
-job training enemies around here.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,125,
+Hey, it looks like there are job training enemies
+around here.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,125,
 0,,ねぇちょっと！？　　だめよ、マスター！,"
 Hey, wait a minute!? No, Master!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,37,
 0,,"ねぇ？　そろそろどうかしら――
@@ -958,14 +938,12 @@ Fufu, I wonder if things have gotten
 a little better?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,11,
 0,,"ふふ！　
 あたし、新しい特技を閃いちゃったわ","
-Fufu!
-I've just had a flash of inspiration
+Fufu! I've just had a flash of inspiration
 for a new special skill!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,123,
 0,,ふん、そんな攻撃！,"
 Fufu, such an attack is nothing!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,141,
 0,,まずいわね――何とかしなくちゃ,"
-This is bad...
-I have to do something.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,33,
+This is bad... I have to do something.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,33,
 0,,みなぎってくる！,"
 I'm overflowing with power!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,12,
 0,,もっと満足させて頂戴,"
@@ -980,8 +958,7 @@ I won't let you!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,
 0,,ん、ありがとう！,"
 Hmm, thank you!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,21,
 0,,ん、我ながら良い香りだわ――,"
-Hmm, it smells good,
-even if I do say so myself.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,62,
+Hmm, it smells good, even if I do say so myself.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,62,
 0,,ん？ 今日はどこに行きます？,"
 Hmm? Where are we going today?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,68,
 0,,サポートはお任せを。ふふっ,"
@@ -989,8 +966,7 @@ Leave the support to me. Fufu.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,ga
 0,,サポートは任せて！,"
 Leave the support to me!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,41,
 0,,ダウンしてるわ！　一気にいきましょう！,"
-They're down!
-Let's finish this at once!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,94,
+They're down! Let's finish this at once!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,94,
 0,,フフ――予想外の出会いね,"
 Fufu—an unexpected encounter.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,133,
 0,,"マスター、
