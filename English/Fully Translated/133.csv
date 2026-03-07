@@ -825,7 +825,7 @@ Ara, what could this be?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_com
 Ara, are you tidying up
 your belongings?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,50,
 0,,あら、敵よ,"
-Ara... it’s an enemy.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,16,
+Ara... it's an enemy.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,16,
 0,,"あら、珍しい敵じゃない！　
 チャンスかもしれませんよ","
 Ara, what an unusual enemy!
@@ -839,7 +839,7 @@ Here I go!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,38,
 Please, keep me by your side...
 forever.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,13,
 0,,うっ！　今は、倒れるわけにはいかない――,"
-Ugh! I can’t afford to collapse here
+Ugh! I can't afford to collapse here
 —not now!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,35,
 0,,"うふふ、あなたのお話、
 よく聞いてるんですよ","
@@ -868,12 +868,12 @@ Well done today, Master.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_com
 0,,"お雇いになったポーンの特技
 あたしも覚えましたよ","
 The specialty of the pawn
-you hired... I’ve learned it too.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,124,
+you hired... I've learned it too.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,124,
 0,,こういうこともあるわ。気を落とさないで,"
 Things like this happen, you know.
-Don’t let it get you down.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,10,
+Don't let it get you down.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,10,
 0,,ここでは気楽にいきましょ,"
-Let’s just take it easy here,
+Let's just take it easy here,
 shall we?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,85,
 0,,このスキル、試すのが楽しみだわ,"
 I'm looking forward to
@@ -952,14 +952,14 @@ Fufu, that was quite good.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_c
 0,,ふふ、了解よ,"
 Fufu, understood.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,138,
 0,,ふふ、怒ってるのね！,"
-Fufu, you’re angry, aren't you!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,91,
+Fufu, you're angry, aren't you!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,91,
 0,,ふふっ、ちょっといい感じになったかしら,"
 Fufu, I wonder if things have gotten
 a little better?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,11,
 0,,"ふふ！　
 あたし、新しい特技を閃いちゃったわ","
 Fufu!
-I’ve just had a flash of inspiration
+I've just had a flash of inspiration
 for a new special skill!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,123,
 0,,ふん、そんな攻撃！,"
 Fufu, such an attack is nothing!",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,141,
