@@ -1123,7 +1123,8 @@ but do try to be gentle with me, won't you? Fufu.",ui\00_message\pawn\talk\stage
 それじゃあ、今のままでいいのね","I understand. So... you like me just the way I am?
 Fufu. That makes me very happy.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,68,
 0,,"<VAL>について？
-ええ、ぜひ聞かせてくださいな","About <VAL>? Oh, by all means... I'm all ears.
+ええ、ぜひ聞かせてくださいな","About <VAL>?
+Oh, by all means... I'm all ears.
 I'd love to hear what's on your mind, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,69,
 0,,"わかったわ――それじゃあ今度から
 <VAL>については、
