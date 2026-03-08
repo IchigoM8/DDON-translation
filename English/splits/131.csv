@@ -381,7 +381,7 @@ I guess I've got no choice.",ui\00_message\pawn\talk\stage\feature9001\persona07
 0,,"覚者様、もし余ってたらでいいんですが――
 <COL b92828><NAME ITEM>を<VAL> 個</COL>いただけませんかね
 いえ、本当に余ってたらで構いませんぜ","Arisen, only if you happen to have any to spare...
-could I trouble you for <NAME ITEM>s, <VAL> of 'em?
+could I trouble you for <COL b92828><NAME ITEM>s, <VAL></COL> of 'em?
 Honestly, only if you don't need them yourself,
 mind you.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,7,
 0,,"覚者様――！　
@@ -806,7 +806,7 @@ it won't stay set like this for long, I'm afraid!",ui\00_message\pawn\talk\stage
 もっとあなた好みになるために、
 <COL b92828><NAME ITEM><VAL> 個</COL>が必要だと思うの――
 ね、いただけないかしら？","Master, I... I think I'll be needin'
-<COL b92828><NAME ITEM>s, <VAL> of 'em,</COL>
+<COL b92828><NAME ITEM>s, <VAL></COL> of 'em,
 if I'm ever gonna become exactly
 the Pawn you want me to be—
 could you find it in your heart
