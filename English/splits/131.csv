@@ -1176,7 +1176,8 @@ I won't let you down, Master.",ui\00_message\pawn\talk\stage\feature9001\persona
 0,,"わかったわ――それじゃあ今度から
 <VAL>について
 <VAL>に対する行動は
-お任せしてくださるのね？","I understand. So, from now on... regarding <VAL>,
+お任せしてくださるのね？","I understand. So, from now on...
+regarding <VAL>,
 you're leaving the actions against <VAL> to me?
 Fufu. I'll take very good care of it for you.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,78,
 0,,"わかったわ――それじゃあ今度から
