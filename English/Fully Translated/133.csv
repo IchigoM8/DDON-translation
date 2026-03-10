@@ -589,7 +589,8 @@ Better watch ourselves!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_comm
 0,,ふーむ、ん？　ん～――,"
 Hmm... Hah? Mmm...",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,60,
 0,,へぇ、なかなか見かけない敵だな,"
-Heh, don't see enemies like this every day, do we.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,133,
+Heh, don't see enemies like this every day,
+do we.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,133,
 0,,へぇ、模様替えってのもいいもんですね,"
 Heh, a change of pace is always good,
 isn't it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,57,
@@ -637,113 +638,123 @@ Let's give it everything we've got!",ui\00_message\pw\pwtlk07.gmd,\game_common.a
 0,,チッ！　厄介そうなヤツですね,"
 Tch! This one looks like trouble.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,20,
 0,,ハッ！　何とかうまくいきましたね,"
-Ha! Somehow, it went well, didn't it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,7,
+Ha! We pulled it off somehow, didn't we?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,7,
 0,,ボードクエストやら依頼やら、ぬかり無く見ときましょう,"
-Let's look at all the board quests and requests.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,85,
+Board quests, requests... let's make sure
+we check 'em all and don't miss a thing.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,85,
 0,,一筋縄じゃあ、いかなさそうな場所ですね,"
-It's not an easy place to get around.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,149,
+This place doesn't look like
+it'll be a walk in the park.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,149,
 0,,上出来だったと思いますがね,"
-I think it went well, but...",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,8,
+I’d say we did a damn good job.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,8,
 0,,今行きますぜ！,"
-I'm on my way!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,87,
+I'm coming for you right now!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,87,
 0,,何が来たってお守りします！,"
-We will protect you no matter what comes your way!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,71,
+No matter what comes at us,
+I've got your back!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,71,
 0,,何というかこう、雰囲気が変わりましたね,"
-The atmosphere has changed.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,56,
+How do I put it...
+the air around here has definitely changed.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,56,
 0,,俺がついてます！,"
-I'm with you!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,90,
+I'm with you all the way!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,90,
 0,,俺の力、きっとお役に立ちますぜ,"
-My power will surely be of use to you.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,2,
+My strength will definitely
+come in handy for you!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,2,
 0,,俺の揺さぶりに耐えられるかぁ？！,"
-Can you withstand my shaking?!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,95,
+Let’s see if you can handle my shaking!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,95,
 0,,先ほどエリア探索から戻りました,"
-I just returned from exploring the area.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,58,
+I've just returned from exploring the area.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,58,
 0,,"先日、別の覚者様に呼ばれて
 ちょっくら冒険のお供をしてきましたぜ","
-The other day, I was invited by another Arisen
-person to accompany them on a little adventure!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,73,
+The other day, I was summoned by another
+Arisen and went along to lend a hand
+on their little adventure.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,73,
 0,,外れたな,"
-Missed.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,142,
+Missed, huh?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,142,
 0,,寝ずの番は俺にお任せを――,"
-Leave the night watch to me.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,55,
+Leave the night watch to me—",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,55,
 0,,属性を付与！　これで攻撃してみてください！,"
-Improved attributes! Please try attacking now!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,100,
+Giving you an elemental buff!
+Try attacking now!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,100,
 0,,弱点を叩くってのはな、戦いの基本だぜ！,"
-Hitting the weak points is the basis of battle,
-you know!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,97,
+Hitting 'em where it hurts
+is the first rule of combat!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,97,
 0,,戦いも結構ですが、休養ってのもイイですなぁ,"
-Fighting is good, but rest is also good.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,67,
+Fighting is all well and good, but there's
+nothing like a good rest, is there?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,67,
 0,,敵か？　仕方ねぇ――！,"
-Enemies? It can't be helped--",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,18,
+Enemies? Can't be helped then—!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,18,
 0,,敵ですよ、やりますか？,"
-Are they foes? Do we engage?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,17,
+It's an enemy, alright. Shall we get to it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,17,
 0,,来やがったな！,"
-You're here!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,26,
+They've finally arrived!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,26,
 0,,楽勝ってわけにゃいきませんね,"
-It's not going to be an easy win.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,33,
+This isn't gonna be an easy fight, is it?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,33,
 0,,気合い入れてお守りしますよ！,"
-I will protect you with all my energy!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,64,
+I'll guard you with everything I've got!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,64,
 0,,渾身の力で――喰らわすぜ――！,"
-I'll strike you with all my might!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,101,
+With all my might—take this!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,101,
 0,,結構な成果ですよ、こいつぁ！,"
-This is quite an achievement, I must say!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,9,
+A fine harvest indeed, this!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,9,
 0,,興奮してるみてぇですね！　攻撃には注意してくださいよ！,"
-It looks agitated! Be careful of the attacks!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,92,
+Looks like it's worked into a frenzy!
+Watch out for its attacks!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,92,
 0,,舐めてかかると、痛い目見そうだな。ありゃ,"
-If you underestimate that, you're in for a world 
-of hurt. Well then...",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,19,
+That one looks like it'll sting
+if we underestimate it.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,19,
 0,,"覚者さま、
 ここらで宝でも探してみましょうや","
-Dear Arisen, Let's try searching for treasures
-around here.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,129,
+Arisen, how about we go hunt for some
+treasure around here?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,129,
 0,,覚者さま、新しい特技、閃めきましたぜ,"
-Dear Arisen, I've got an idea for a new skill.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,123,
+Arisen, I've just hit upon a new technique!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,123,
 0,,覚者様、今回のエリア探索は大収穫ですぜ！,"
-Dear Arisen, this exploration of the area has
-been a great success!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,59,
+Arisen,
+this area exploration has been a real haul!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,59,
 0,,覚者様、今日は俺から戦技のご提案をさせてもらえませんかね！,"
-Master, may I propose a combat technique to you
-today?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,75,
+Arisen,
+might I suggest a battle skill for us today?",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,75,
 0,,覚者様、今日は俺から髪型のご提案があるんですよ！,"
-Dear Arisen, I have a haircut suggestion for you
-today!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,77,
+Arisen, I've got a suggestion for
+a new hairstyle for you today!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,77,
 0,,覚者様、修練敵がいますぜ！,"
-Ser Arisen, there are training enemies!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,126,
+Arisen, there's a training target over there!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,126,
 0,,"覚者様、手に入れたこの力で、
 今までよりもお力になれるはずです――
 お任せくだせぇ","
-Arisen, with the power I have obtained, I should
-be able to be of more help than before―― Please
-entrust it to me.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,151,
+Arisen, with this power I've gained,
+I'll be able to help you more than ever—
+leave it to me!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,151,
 0,,"覚者様、新しい家財を入手されたんですか！
 こりゃぁいいや！","
-Dear Master, did you get new household goods?
-That's good!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,78,
+Arisen, you've acquired new furniture!
+This is a fine find!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,78,
 0,,覚者様がご無事で何より！,"
-I am glad to hear that you are safe and sound,
-Arisen!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,80,
+Arisen, I’m glad to see you’re safe!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,80,
 0,,覚者様が仰るんなら,"
-If the Arisen says so",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,139,
+If you say so, Arisen.",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,139,
 0,,"覚者様に従ってきたおかげで
 俺の意思疎通力が上がったんで！","
-Thanks to following the Arisen, 
+Thanks to following you, Arisen,
 my ability to communicate has improved!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,76,
 0,,覚者様の邪魔してんじゃねぇぞ、おう！,"
-Don't get in the way of the Master of the Arisen!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,30,
+Don't you be getting in the Arisen's way,
+you hear?!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,30,
 0,,解ったぜ！,"
 Got it!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,47,
 0,,誰か、手ぇ貸してくれ！,"
-Somebody give me a hand here!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,22,
+Someone, lend me a hand!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,22,
 0,,長いことお戻りにならねぇんで、心配してたんですよ,"
-I was worried because you didn't come back for a
-long time",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,81,
+You were gone for quite a while, Arisen... 
+I was getting worried!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,81,
 0,,食らいやがれッ！！,"
-Take it!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,44,
+Eat this!!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,44,
 0,,食らわしてやる――,"
-I'm gonna make you pay for this...",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,38,
+I'll make you pay for that!",ui\00_message\pw\pwtlk07.gmd,\game_common.arc,game_common.arc,38,
 0,,<COL B6FF01>《剛化》いつもより強めに行くわね！</COL>,"
 <COL B6FF01>《Harden》
-I'm going to be a bit more aggressive than usual!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,107,
+I'm going to be a bit more
+aggressive than usual!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,107,
 0,,<COL B6FF01>《剛化》この攻撃、その身に刻んであげる！</COL>,"<COL B6FF01>《Harden》
 I will carve this attack
 into your very being!</COL>",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,106,
